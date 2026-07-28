@@ -5,10 +5,10 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **26.07.2026 18:40**
-- Párrafos: 360
-- Resaltados: {'yellow': 217, 'cyan': 82, 'lightGray': 6}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Comentarios pendientes en el documento: 10
+- Última modificación del `.docx`: **28.07.2026 18:48**
+- Párrafos: 377
+- Resaltados: {'yellow': 242, 'cyan': 82, 'lightGray': 7}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Comentarios pendientes en el documento: 9
 
 ## Carátula — contenido de los cuadros de texto
 
@@ -287,12 +287,30 @@ No utilizar herramientas de IA para eludir controles internos o procedimientos e
 6.12.4	Los contratos prohíben al proveedor emplear la información de la SUNAT (en particular la sujeta a reserva tributaria y los datos personales) para entrenar, ajustar o mejorar sus modelos o para cualquier fin propio, en concordancia con el artículo 85 del Código Tributario, que extiende la obligación de reserva a quienes accedan a dicha información. La propiedad intelectual de los ajustes (fine-tuning) realizados con información o para necesidades de la SUNAT corresponde a la SUNAT.
 6.12.5	Para los SBIA de riesgo alto, el proveedor entrega la documentación técnica que permita comprender la lógica general del modelo y los factores que influyen en sus resultados, en la medida necesaria para el cumplimiento de las obligaciones de transparencia y explicabilidad de la SUNAT, evitando soluciones de caja negra no auditables.
 6.13	De la sensibilización, educación y capacitación
-6.13.1	La INRH ejecuta acciones de sensibilización, concientización y capacitación, diferenciadas por grupos:
-Alta Dirección: Gobernanza de IA, riesgos estratégicos, normativa.
-Personal técnico (INSI): Desarrollo responsable, MLOps, seguridad, NTP-ISO/IEC 42001.
-Colaboradores operativos: Uso responsable de herramientas de IA, identificación de sesgos, limitaciones.
-Todos los colaboradores: Principios éticos, reglas básicas de uso, protección de la información.
-6.13.2	La INRH ejecuta las acciones de forma continua, las actualiza anualmente e informa al CGTD las acciones ejecutadas durante el año.
+La Intendencia Nacional de Recursos Humanos conduce las acciones de sensibilización, capacitación y gestión del cambio vinculadas al uso de sistemas basados en inteligencia artificial, de conformidad con las funciones establecidas en el Reglamento de Organización y Funciones de la SUNAT y con el apoyo técnico de la Comisión de Gobierno de IA.
+6.13.1 Sensibilización
+Todo el personal de la SUNAT vinculado al diseño, desarrollo, implementación, evaluación o uso de sistemas basados en IA es sensibilizado respecto del uso seguro, responsable y ético de dichos sistemas, así como de los riesgos asociados y de las disposiciones establecidas en la Política de uso seguro, responsable y ético de los sistemas basados en IA de la SUNAT.
+Las acciones de sensibilización consideran, como mínimo:
+La finalidad y los principios institucionales aplicables a los sistemas basados en IA.
+Los riesgos derivados de su diseño, desarrollo, implementación y uso.
+La protección de los derechos fundamentales de los administrados y la prevención de sesgos o resultados discriminatorios.
+La protección de la reserva tributaria, secreto comercial y demás obligaciones de confidencialidad aplicables.
+El impacto social y ambiental de los sistemas basados en IA.
+Esta disposición incorpora los requerimientos establecidos en el numeral 28.9 del artículo 28 del Reglamento y adopta medidas adicionales de sensibilización orientadas a promover el uso seguro, responsable y ético de los sistemas basados en IA, en concordancia con el numeral 7.3 de la NTP-ISO/IEC 42001:2025.
+6.13.2 Capacitación y fortalecimiento de capacidades
+La Intendencia Nacional de Recursos Humanos fortalece de manera progresiva y sistemática las capacidades y competencias de su personal en materia de sistemas basados en IA mediante acciones formativas.
+Las necesidades de capacitación asociadas a los distintos roles, los contenidos formativos, las modalidades de capacitación y los mecanismos de evaluación de resultados se determinan en el marco normativo del Plan de Desarrollo de las Personas.
+Estas acciones consideran, como mínimo:
+Los fundamentos y el ciclo de vida de los sistemas basados en IA.
+La gestión de riesgos y la seguridad de la información aplicables.
+La ética, integridad y responsabilidad en el uso de la IA.
+La protección de datos personales.
+La protección de la reserva tributaria cuando los sistemas procesen información de los administrados.
+Esta disposición se implementa conforme al numeral 28.5 del artículo 28 del Reglamento y en concordancia con el numeral 7.2 y el Anexo A.4 de la NTPISO/IEC 42001:2025.
+6.13.3 Gestión del cambio
+La Intendencia Nacional de Recursos Humanos promueve las acciones de gestión del cambio necesarias para la adopción efectiva de la Política y del sistema de gestión de IA, fomentando una cultura institucional orientada a la innovación responsable, la mejora continua y el aprovechamiento seguro y sostenible de las tecnologías basadas en IA.
+Las acciones de gestión del cambio facilitan la consolidación de la Política institucional de uso seguro, responsable y ético de los sistemas basados en IA y del sistema de gestión de IA, promoviendo su integración en la gestión institucional y favoreciendo las condiciones organizacionales necesarias para su sostenibilidad y mejora continua, en concordancia con los numerales 28.1 y 28.2 del artículo 28 del Reglamento.
+
 6.14	De la ética y la integridad en los SBIA
 6.14.1	En el desarrollo, la implementación y el uso de los SBIA, la SUNAT promueve la participación de equipos diversos y multidisciplinarios, garantiza el pleno respeto de los derechos humanos y evita que se generen resultados injustos o discriminatorios, considera el impacto social y ambiental, e implementa las mejores prácticas, estándares y normas técnicas para identificar y minimizar los sesgos de los algoritmos y de las bases de datos utilizados.
 6.14.2	La SUNAT promueve que su personal cumpla las normas del Código de Ética de la Función Pública, su Reglamento y las normas de integridad en el desarrollo, la implementación y el uso de los SBIA. La OII supervisa el cumplimiento de los principios éticos en los SBIA, evalúa los riesgos de sesgo y discriminación y administra el canal de consultas éticas en materia de IA. Su opinión sobre la clasificación de riesgo consta conforme al numeral 6.2.2.
@@ -418,4 +436,3 @@ Son **pendientes atrapados en el archivo**: no aparecen en ningún briefing. Con
 - **Kut Castro Mario Fernando** (2026-07-21): Revisión del equipo.
 - **Kut Castro Mario Fernando** (2026-07-21): Evaluar matiz para este tipo de requerimiento.
 - **Kut Castro Mario Fernando** (2026-07-21): Pendiente en agenda.
-- **Kut Castro Mario Fernando** (2026-07-21): Revisión de la version del frente de sensibilización, educación y capacitación.
