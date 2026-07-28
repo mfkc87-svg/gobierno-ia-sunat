@@ -1,0 +1,4 @@
+*.docx diff=word
+*.xlsx binary
+*.pptx binary
+*.md text eol=lf
