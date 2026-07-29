@@ -5,10 +5,10 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **28.07.2026 20:33**
-- Párrafos: 383
-- Resaltados: {'yellow': 209, 'cyan': 82, 'lightGray': 60}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Comentarios pendientes en el documento: 8
+- Última modificación del `.docx`: **29.07.2026 01:12**
+- Párrafos: 381
+- Resaltados: {'yellow': 213, 'lightGray': 65, 'cyan': 66}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Comentarios pendientes en el documento: 4
 
 ## Carátula — contenido de los cuadros de texto
 
@@ -81,7 +81,7 @@ SUNAT: Superintendencia Nacional de Aduanas y de Administración Tributaria
 OBJETIVO
 Establecer las disposiciones para el gobierno, la gestión del ciclo de vida y el uso responsable de los Sistemas Basados en Inteligencia Artificial (SBIA) en la SUNAT, precisando los compromisos establecidos en la Política de Uso Seguro, Responsable y Ético de los SBIA y tomando como marco de referencia la NTP-ISO/IEC 42001:2025, para garantizar su alineamiento con la estrategia institucional, el cumplimiento del marco normativo vigente, la protección de los derechos de los administrados, la reserva tributaria y la seguridad de la información.
 ALCANCE
-Las disposiciones de la presente directiva son de cumplimiento obligatorio para todas las unidades de organización de la SUNAT que desarrollen, adquieran, implementen, operen, supervisen o utilicen SBIA. Se exceptúa de su alcance al Órgano de Control Institucional, que ejerce sus funciones con autonomía funcional e independencia técnica y depende funcional y administrativamente de la Contraloría General de la República, conforme a la Ley N.° 27785.
+Las disposiciones de la presente directiva son de cumplimiento obligatorio para todas las unidades de organización de la SUNAT que desarrollen, adquieran, implementen, operen, supervisen o utilicen SBIA. Se exceptúa de su alcance al Órgano de Control Institucional, que se rige por las disposiciones del Sistema Nacional de Control.
 La directiva aplica a los tres enfoques de SBIA:
 Enfoque A: SBIA de terceros desplegados en infraestructura ajena al control de la SUNAT, utilizados como servicio (SaaS) bajo sus términos de uso, destinados a procesos administrativos.
 Enfoque B: SBIA desarrollados por terceros y desplegados en infraestructura bajo control de la SUNAT.
@@ -141,7 +141,7 @@ Sistema de Gestión de IA (SGIA): Conjunto de elementos interrelacionados o que 
 DISPOSICIONES GENERALES
 5.1	De los principios para el Gobierno de IA
 5.1.1	El Gobierno de IA se alinea a los principios de la Política de Uso Seguro, Responsable y Ético de los SBIA, concordantes con el artículo 7 del RLIA y la ENIA.
-5.1.2	Los derechos fundamentales de las personas son inviolables. Ante cualquier conflicto entre un objetivo institucional y la protección de los derechos de los administrados, prevalece siempre la última.
+5.1.2	Los derechos fundamentales son intangibles y constituyen el límite de toda actuación administrativa. Por ello, cuando exista la posibilidad de que la operación de un SBIA pueda afectar los derechos fundamentales de las personas, se priorizará siempre la protección de éstos últimos.
 5.1.3	La reserva tributaria constituye criterio determinante en la evaluación de riesgo de todo SBIA que procese información de contribuyentes.
 5.1.4	El Gobierno de IA se orienta a la generación de valor público. Toda iniciativa de SBIA responde a un problema real y relevante de la administración y produce un beneficio verificable para las personas o para la gestión institucional; no se promueven usos de IA sin una necesidad que los justifique.
 5.1.5	El Gobierno de IA aplica el principio de proporcionalidad: las exigencias de evaluación, supervisión y control se gradúan según el nivel de riesgo del SBIA. La proporcionalidad no exime del cumplimiento de los controles y obligaciones que el Reglamento y la presente directiva establecen con carácter obligatorio para cada categoría de riesgo.
@@ -205,8 +205,6 @@ Observaciones subsanables (acompañamiento). Cuando la iniciativa presenta debil
 No procedencia. Cuando el SBIA es clasificado como de uso indebido conforme al artículo 23 del RLIA, contraviene la Política de Uso Seguro, Responsable y Ético de los SBIA o la normativa vigente, o no cuenta con pronunciamiento favorable de la Comisión de Gobierno de IA sobre su viabilidad técnica, la Comisión fundamenta por escrito la no procedencia y la eleva al CGTD para su decisión definitiva en acta.
 En la evaluación de la generación de valor, el beneficio puede sustentarse a nivel de un conjunto o programa de SBIA cuando la iniciativa forme parte de un portafolio, e incluir beneficios cualitativos y de control de procesos además de los cuantitativos.
 6.1.5	La INSI aprueba, con opinión favorable del CGTD, la metodología del ciclo de vida del SBIA previsto en el numeral 6.1.1, conforme a sus competencias y a la METDONI. La metodología comprende, como mínimo: el desarrollo y la aplicación de la clasificación de riesgo (Anexo N.° 2) y de la evaluación de impacto algorítmico (Anexo N.° 3), los criterios técnicos de diseño de la arquitectura de los SBIA, el contenido de los entregables de cada etapa, los tipos y las técnicas de prueba aplicables según el nivel de riesgo, los controles de contención, las prácticas de monitoreo y las condiciones de retiro. En tanto no se apruebe, los SBIA siguen el ciclo de vida del numeral 6.1.1 y la normativa de desarrollo de sistemas vigente en la SUNAT.
-6.1.6	Cuando en la formulación del Caso de Negocio de un programa o proyecto institucional, conforme al Modelo de Gobernabilidad de Programas y Proyectos (MGPP), se identifiquen componentes basados en IA, el propietario del caso de uso presenta la Ficha de Evaluación de Caso de Uso (Anexo N.° 4) a la Comisión de Gobierno de IA antes de continuar, para la evaluación del o de los componentes de IA.
-6.1.7	Cuando una necesidad canalizada a través de la gestión de la demanda informática, conforme al Lineamiento Temporal para la Gestión de la Demanda Informática vigente, comprenda componentes basados en IA, el propietario del caso de uso presenta la Ficha de Evaluación de Caso de Uso (Anexo N.° 4) a la Comisión de Gobierno de IA antes de continuar con su atención, para la evaluación del o de los componentes de IA.
 6.2	De la clasificación de los SBIA por nivel de riesgo
 6.2.1	La clasificación de riesgo determina, para cada iniciativa o SBIA de la SUNAT, la categoría de riesgo que genera su uso conforme al RLIA: uso indebido (artículo 23), riesgo alto (artículo 24) o riesgo aceptable (numeral 22.2 del artículo 22). El uso indebido deviene en prohibido; por ello, la SUNAT no desarrolla, adquiere, implementa ni opera SBIA cuyo uso sea indebido, y la clasificación los identifica y excluye en la etapa de evaluación de viabilidad, con anterioridad a su desarrollo o adquisición. Para fines operativos de supervisión y monitoreo, el riesgo aceptable se subdivide en dos subniveles internos (aceptable-limitado y aceptable-mínimo), sin constituir una categoría adicional del RLIA. La clasificación y la gestión de los riesgos de los SBIA se alinean a la NTP-ISO 31000 vigente, de uso obligatorio conforme a la Sexta Disposición Complementaria Final del RLIA.
 6.2.2	Para la aplicación de la clasificación establecida, la Comisión de Gobierno de IA propone la clasificación de riesgo de las iniciativas que se presentan. La opinión de la OII, en materia de ética, integridad y prevención de sesgos, y la de la INALI, en materia de cumplimiento normativo, constan de manera expresa en la propuesta. El CGTD aprueba la clasificación de las iniciativas de SBIA de riesgo alto y de aquellos estratégicos para la entidad; la Comisión de Gobierno de IA aprueba la clasificación de los SBIA de riesgo aceptable e informa de ello al CGTD. La clasificación es parte de la evaluación de viabilidad de acuerdo al ciclo de vida descrito en el 6.1.1. La clasificación aplica los criterios de la Matriz de Clasificación de Riesgos (Anexo N.° 2); el detalle de su aplicación se desarrolla en la metodología prevista en el numeral 6.1.5.
@@ -433,11 +431,7 @@ Visto bueno del Intendente de la unidad solicitante.
 
 Son **pendientes atrapados en el archivo**: no aparecen en ningún briefing. Conviene llevarlos al backlog de Notion.
 
-- **Kut Castro Mario Fernando** (2026-07-21): Confirmar con INALI.
 - **Kut Castro Mario Fernando** (2026-07-21): Alinearlo de acuerdo al ROF referente a la competencia de formular iniciativas de SBIA, (unidades normativas de negocio y las unidades administrativas, TI), revisar competencias.
-- **Kut Castro Mario Fernando** (2026-07-21): Formularlo de otra forma.
 - **Kut Castro Mario Fernando** (2026-07-21): Revisar
 - **Kut Castro Mario Fernando** (2026-07-21): Representantes INGP, INER, INDIA, (Para revisión del ROF), a evaluar.
 - **Kut Castro Mario Fernando** (2026-07-21): Analizar bajo METDONI.
-- **Kut Castro Mario Fernando** (2026-07-21): Revisión del equipo.
-- **Kut Castro Mario Fernando** (2026-07-21): Evaluar matiz para este tipo de requerimiento.
