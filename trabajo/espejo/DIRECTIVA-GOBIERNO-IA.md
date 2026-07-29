@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **29.07.2026 02:49**
+- Última modificación del `.docx`: **29.07.2026 02:56**
 - Párrafos: 383
-- Resaltados: {'yellow': 209, 'lightGray': 100, 'cyan': 64}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 209, 'lightGray': 101, 'cyan': 67}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 1
 
 ## Carátula — contenido de los cuadros de texto
@@ -333,7 +333,7 @@ DISPOSICIONES FINALES
 7.3	La Comisión de Gobierno de IA se conforma mediante Resolución de Superintendencia, a propuesta del CGTD, conforme al numeral 5.3 de la presente directiva. El CGTD designa a su Coordinador.
 7.4	El Sistema de Gestión de Inteligencia Artificial (SGIA) de la SUNAT se rige por la NTP-ISO/IEC 42001:2025. La Comisión de Gobierno de IA propone al CGTD el plan de implementación del SGIA, con hitos y responsables, y coordina los lineamientos técnicos que correspondan.
 7.5	La Comisión de Gobierno de IA, con el apoyo técnico de la INSI, implementa el Inventario Institucional de SBIA.
-7.6	Las unidades de organización a las que la presente directiva asigna una responsabilidad desarrollan y aprueban, en el ámbito de las competencias que les reconoce el ROF, los documentos normativos institucionales de menor rango (metodologías, guías metodológicas, procedimientos, instructivos y lineamientos temporales) que establecen la forma de ejecutar dicha responsabilidad, conforme a la METDONI. Dichos documentos desarrollan la aplicación de lo dispuesto en la presente directiva y no modifican sus disposiciones, sus Anexos ni las competencias de aprobación que establece
+7.6	Las unidades de organización a las que la presente directiva asigna una responsabilidad desarrollan y aprueban, en el ámbito de las competencias que les reconoce el ROF, los documentos normativos institucionales de menor rango (metodologías, guías metodológicas, procedimientos, instructivos y lineamientos temporales) que establecen la forma de ejecutar dicha responsabilidad, conforme a la METDONI. Dichos documentos desarrollan la aplicación de lo dispuesto en la presente directiva y no modifican sus disposiciones, sus Anexos ni las competencias de aprobación que establece. Los encargos son los previstos en las disposiciones específicas de la presente directiva; su plazo se establece mediante acuerdo del Comité de Gobierno y Transformación Digital. La Comisión de Gobierno de IA hace seguimiento de su cumplimiento y lo reporta en el informe trimestral del numeral 6.9.5; cuando identifique la necesidad de un instrumento no previsto, propone al CGTD la unidad competente.
 7.7	El CGTD resuelve las situaciones no previstas, sin perjuicio de la aplicación de la normativa vigente.
 7.8	Las referencias a normas técnicas aplican a sus versiones vigentes o a las que las sustituyan.
 7.9	Los Anexos, los indicadores y las fichas de la presente directiva se actualizan mediante acto administrativo del CGTD, sin requerir la modificación de la directiva, conforme a los numerales 6.10.2, 7.5 y 7.7.
