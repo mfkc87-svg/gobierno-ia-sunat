@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **29.07.2026 03:11**
+- Última modificación del `.docx`: **29.07.2026 03:25**
 - Párrafos: 384
-- Resaltados: {'yellow': 207, 'lightGray': 130, 'cyan': 67}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 207, 'lightGray': 131, 'cyan': 67}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 1
 
 ## Carátula — contenido de los cuadros de texto
@@ -285,7 +285,6 @@ No utilizar herramientas de IA para eludir controles internos o procedimientos e
 6.11.3	La INSI aprueba y mantiene los lineamientos técnicos que regulan el uso de LLM open source en su infraestructura. Las unidades de organización los cumplen como condición para el despliegue de estos modelos. El despliegue de estos modelos observa, en lo que corresponda, el Procedimiento para el Registro, Control y Retiro de Software de la SUNAT (A-03.3.2-PR-01).
 6.11.4	Ninguna unidad organizacional desarrolla, adquiere, contrata, implementa u opera SBIA fuera del límite de la presente directiva, independientemente de su complejidad, presupuesto o ámbito geográfico. En particular: (a) toda iniciativa de SBIA como proyecto requiere aprobación conforme al ciclo de vida del numeral 6.1 y registro en el Inventario Institucional; (b) toda contratación de servicios de IA como herramienta (suscripciones, APIs, plataformas SaaS) requiere autorización previa de la INSI e inclusión en el catálogo institucional (numeral 6.11.2). Los colaboradores utilizan exclusivamente las herramientas de IA que figuran en dicho catálogo. La Comisión de Gobierno de IA promueve la regularización mediante el registro y el acompañamiento proporcional a la unidad involucrada. Los incumplimientos reiterados o que impliquen uso indebido se comunican al CGTD y, según corresponda, a la OII.
 6.11.5	La GA aprueba las herramientas de IA que pueden emplearse en la SUNAT, conforme a sus funciones (artículo 130, literal c, del ROF), y las registra en el catálogo institucional de herramientas de IA. La Gerencia de Operaciones y Soporte a Usuarios asegura que los equipos informáticos tengan instalado únicamente software autorizado. El catálogo institucional de herramientas de IA constituye el subconjunto de inteligencia artificial del inventario de software autorizado; ambos se distinguen del Inventario de SBIA (Anexo N.° 1), que registra los sistemas basados en IA y no las herramientas. El registro, el control y el retiro de las herramientas de IA como software se rigen por el Procedimiento para el Registro, Control y Retiro de Software de la SUNAT (A-03.3.2-PR-01).
-
 6.12	De la gestión de proveedores de IA
 6.12.1	La adquisición de SBIA incluye en los TDR o EETT los requisitos de cumplimiento de la presente directiva y normativa aplicable.
 6.12.2	Los contratos incluyen cláusulas sobre: (a) protección de datos y reserva tributaria; (b) transparencia del modelo; (c) comunicación de vulnerabilidades e incidentes; (d) derecho de auditoría, incluida la realización de auditorías éticas y de sesgo sobre el modelo; (e) transferencia de conocimiento; (f) cumplimiento de estándares técnicos. El plazo de notificación de vulnerabilidades se define en los TDR o EETT de cada contratación, según la criticidad del SBIA.
@@ -316,7 +315,6 @@ Esta disposición se implementa conforme al numeral 28.5 del artículo 28 del Re
 6.13.3 Gestión del cambio
 La Intendencia Nacional de Recursos Humanos promueve las acciones de gestión del cambio necesarias para la adopción efectiva de la Política y del sistema de gestión de IA, fomentando una cultura institucional orientada a la innovación responsable, la mejora continua y el aprovechamiento seguro y sostenible de las tecnologías basadas en IA.
 Las acciones de gestión del cambio facilitan la consolidación de la Política institucional de uso seguro, responsable y ético de los sistemas basados en IA y del sistema de gestión de IA, promoviendo su integración en la gestión institucional y favoreciendo las condiciones organizacionales necesarias para su sostenibilidad y mejora continua, en concordancia con los numerales 28.1 y 28.2 del artículo 28 del Reglamento.
-
 6.14	De la ética y la integridad en los SBIA
 6.14.1	En el desarrollo, la implementación y el uso de los SBIA, la SUNAT promueve la participación de equipos diversos y multidisciplinarios, garantiza el pleno respeto de los derechos humanos y evita que se generen resultados injustos o discriminatorios, considera el impacto social y ambiental, e implementa las mejores prácticas, estándares y normas técnicas para identificar y minimizar los sesgos de los algoritmos y de las bases de datos utilizados.
 6.14.2	La SUNAT promueve que su personal cumpla las normas del Código de Ética de la Función Pública, su Reglamento y las normas de integridad en el desarrollo, la implementación y el uso de los SBIA. La OII supervisa el cumplimiento de los principios éticos en los SBIA, evalúa los riesgos de sesgo y discriminación y administra el canal de consultas éticas en materia de IA. Su opinión sobre la clasificación de riesgo consta conforme al numeral 6.2.2.
