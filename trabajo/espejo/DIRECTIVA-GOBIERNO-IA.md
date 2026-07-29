@@ -5,10 +5,10 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **28.07.2026 18:48**
-- Párrafos: 377
-- Resaltados: {'yellow': 242, 'cyan': 82, 'lightGray': 7}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Comentarios pendientes en el documento: 9
+- Última modificación del `.docx`: **28.07.2026 20:33**
+- Párrafos: 383
+- Resaltados: {'yellow': 209, 'cyan': 82, 'lightGray': 60}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Comentarios pendientes en el documento: 8
 
 ## Carátula — contenido de los cuadros de texto
 
@@ -224,6 +224,11 @@ Del diseño, la operación y la seguridad de los SBIA
 6.5	De la arquitectura y el software de los SBIA
 6.5.1	La GA conduce el diseño de la arquitectura de los SBIA, conforme a sus funciones (artículos 129 y 130, literal a, del ROF). La arquitectura de los SBIA promueve soluciones modulares y escalables y el uso de estándares abiertos que eviten la dependencia tecnológica de un único proveedor.
 6.5.2	El desarrollo, la adquisición y la adecuación del software de los SBIA cumplen las disposiciones y los estándares técnicos sobre procesos del ciclo de vida del software aplicables a las entidades de la Administración Pública, conforme a la normatividad vigente.
+6.5.3    El diseño de la arquitectura de los SBIA observa los Principios de Arquitectura (AAT.PRAQ.01) y los Lineamientos de Arquitectura (LAT.LIAQ.01) de la SUNAT, en sus versiones vigentes, en lo que corresponda a su naturaleza. La GA adecua dichos instrumentos y los estándares de arquitectura de su competencia para incorporar los requisitos propios de los SBIA —modelos, conjuntos de datos, componentes generativos y agenticos, e infraestructura especializada—, conforme al literal c) del artículo 130 del ROF, y los aprueba mediante el documento normativo institucional que corresponda según la METDONI.
+6.5.4   Todo SBIA cuenta con la aprobación de su arquitectura de solución por la GA, previa al inicio del desarrollo, la adquisición o el entrenamiento, conforme a la etapa 3 del numeral 6.1.1. Los requisitos derivados del nivel de riesgo aprobado, incluidos los mecanismos de supervisión humana, explicabilidad y trazabilidad, se incorporan como requisitos no funcionales de la solución.
+6.5.5   Los SBIA que ejecuten acciones sobre sistemas, datos o procesos con algún grado de autonomía incorporan mecanismos de autorización, restricción y registro de dichas acciones, proporcionales al nivel de riesgo aprobado y al grado de autonomía asignado. El propietario del caso de uso define el alcance de las acciones autorizadas; la GA verifica su implementación antes del despliegue.
+6.5.6 Los SBIA generativos que utilicen información institucional incorporan mecanismos que vinculen los resultados generados con sus fuentes de información autorizadas y vigentes. Esta trazabilidad sustenta la explicabilidad exigida en el numeral 6.9.3.
+6.5.7   La publicación del código fuente de los SBIA financiados con fondos públicos, con licencia libre o abierta en la Plataforma Nacional de Software Público Peruano (PNSSP), se sujeta a la determinación previa de su publicabilidad. Dicha determinación verifica que el código no revele información sujeta a reserva tributaria conforme al artículo 85 del TUO del Código Tributario, información protegida por confidencialidad aduanera, ni reglas de detección de riesgo cuya divulgación comprometa la función de control. La GA, con opinión de la INALI y de la Oficina de Seguridad Informática, determina la publicabilidad antes de cada liberación mayor; la GDS ejecuta la publicación cuando corresponda.
 6.6	De la supervisión humana
 6.6.1	Todo SBIA cuenta con un mecanismo de supervisión humana proporcional a su nivel de riesgo. En los SBIA de riesgo alto que intervengan en decisiones con impacto significativo, la supervisión humana es obligatoria; su extensión a los demás SBIA de riesgo alto y a los de riesgo aceptable es una decisión institucional. La correspondencia es la siguiente:
 Human-in-the-loop (obligatorio para riesgo alto): Un supervisor humano valida cada decisión o resultado del SBIA antes de su ejecución o comunicación al administrado. Aplica a: selección de contribuyentes para fiscalización, determinación de deuda, clasificación arancelaria.
@@ -249,6 +254,7 @@ No está sujeto a incentivos que condicionen su juicio a la aceptación de los r
 6.8.2	El OGD promueve la calidad y el intercambio de los datos a fin de evitar sesgos y asegurar la precisión y representatividad de los datos utilizados en el entrenamiento, validación y uso de los SBIA y asegura su calidad e integridad. Emite opinión sobre el uso de datos en la Ficha de Evaluación de Caso de Uso (Anexo N.° 4) y en la EIA, cuando corresponda.
 6.8.3	El uso de datos protegidos por la reserva tributaria para el desarrollo, entrenamiento o validación de un SBIA requiere la determinación previa de su base legal, conforme al artículo 85 del TUO del Código Tributario. Los datos personales se tratan conforme a la Ley N.° 29733. La procedencia y la base legal de uso se documentan en la Ficha de Registro de SBIA (Anexo N.° 1).
 6.8.4	No se utilizan obras protegidas por derechos de autor y derechos conexos como insumo de entrenamiento, ajuste fino o procesamiento en SBIA sin contar con la autorización correspondiente o con la base legal habilitante.
+6.8.5   Los conjuntos de datos que la SUNAT genere o administre y que califiquen como datos de alto valor se ponen a disposición a través del Centro Nacional de Datos (CND), previa determinación de su publicabilidad conforme al artículo 85 del TUO del Código Tributario y a la normativa de protección de datos personales. El OGD identifica los conjuntos candidatos y propone al CGTD su publicación.
 De la transparencia y el control de los SBIA
 6.9	De la transparencia, explicabilidad y rendición de cuentas
 6.9.1	Los SBIA de riesgo alto cuentan con mecanismos de transparencia algorítmica que informan al usuario, de forma previa, clara y sencilla, la finalidad o uso del SBIA, sus funcionalidades principales y el tipo de decisiones que puede tomar, de modo que comprenda cómo interactúa con el SBIA o con el servicio que lo emplea. La descripción de dichos mecanismos consta en la Ficha de Registro de SBIA (Anexo N.° 1).
@@ -435,4 +441,3 @@ Son **pendientes atrapados en el archivo**: no aparecen en ningún briefing. Con
 - **Kut Castro Mario Fernando** (2026-07-21): Analizar bajo METDONI.
 - **Kut Castro Mario Fernando** (2026-07-21): Revisión del equipo.
 - **Kut Castro Mario Fernando** (2026-07-21): Evaluar matiz para este tipo de requerimiento.
-- **Kut Castro Mario Fernando** (2026-07-21): Pendiente en agenda.
