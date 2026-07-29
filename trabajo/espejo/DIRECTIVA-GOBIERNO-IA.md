@@ -5,10 +5,10 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **29.07.2026 01:12**
-- Párrafos: 381
-- Resaltados: {'yellow': 213, 'lightGray': 65, 'cyan': 66}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Comentarios pendientes en el documento: 4
+- Última modificación del `.docx`: **29.07.2026 01:43**
+- Párrafos: 383
+- Resaltados: {'yellow': 213, 'lightGray': 71, 'cyan': 64}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Comentarios pendientes en el documento: 3
 
 ## Carátula — contenido de los cuadros de texto
 
@@ -52,6 +52,7 @@ INRH: Intendencia Nacional de Recursos Humanos
 INSI: Intendencia Nacional de Sistemas de Información
 LLM: Modelo de lenguaje a gran escala (Large Language Model)
 METDONI: Metodología para la formulación, aprobación y control de los documentos normativos institucionales
+METGEP: Metodología para la Gestión por Procesos
 MLOps: Operaciones de aprendizaje automático (Machine Learning Operations)
 NTP: Norma Técnica Peruana
 ODP: Oficial de Datos Personales
@@ -110,6 +111,7 @@ Resolución de Superintendencia N.° 000114-2025/SUNAT (08/04/2025), que designa
 Resolución de Superintendencia Nacional Adjunta de Administración y Finanzas N.° 000197-2022-SUNAT/800000 (27/10/2022), que designa al Oficial de Datos Personales de la SUNAT.
 Resolución de Superintendencia N.° [XXX]-2026/SUNAT, que aprueba la Política de Uso Seguro, Responsable y Ético de los SBIA en la SUNAT.
 Resolución de Oficina N.° 001-2024-SUNAT/1V0000, que aprueba la Metodología para la formulación, aprobación y control de los Documentos Normativos Institucionales (METDONI) Versión 1.4.
+Resolución de Oficina N.° 000002-2023-SUNAT/1V0000, que aprueba la Metodología para la Gestión por Procesos (METGEP) Versión 5.
 
 GLOSARIO DE TÉRMINOS
 Las definiciones contenidas en el presente glosario se sustentan en estándares internacionales, normas técnicas peruanas y el marco normativo vigente.
@@ -130,7 +132,7 @@ Inventario Institucional de SBIA: Registro centralizado y actualizado de todos l
 LLM (Large Language Model): Modelo de lenguaje a gran escala basado en redes neuronales profundas, entrenado con grandes volúmenes de texto para realizar tareas de procesamiento de lenguaje natural. [NIST AI 600-1 (2024), sección 1.1]
 MLOps: Conjunto de prácticas que combinan Machine Learning, DevOps e ingeniería de datos para estandarizar el ciclo de vida de modelos en producción. [Kreuzberger et al. (2023)]
 Niveles de riesgo de un SBIA: Categorías en que se clasifica un SBIA según el riesgo que genera su uso, conforme al RLIA: uso indebido (prohibido, artículo 23), riesgo alto (sujeto a requisitos reforzados, artículo 24) y riesgo aceptable (artículo 22.2), subdividido internamente en aceptable-limitado y aceptable-mínimo para fines de supervisión. [D.S. N.° 115-2025-PCM, artículos 22 a 24]
-Propietario de caso de uso: Responsable de la unidad de organización que identifica la necesidad de negocio (el caso de uso) susceptible de ser atendida mediante un SBIA, y que asume la responsabilidad funcional sobre sus resultados a lo largo de todo el ciclo de vida. Es el mismo responsable funcional del SBIA que materializa el caso de uso, y se distingue del custodio técnico a cargo de su arquitectura y operación. [NTP-ISO/IEC 42001:2025, cláusula 5.3]
+Propietario del caso de uso: Unidad de organización que, de acuerdo con sus competencias y funciones en el ROF, es el dueño del proceso en el que se identifica la necesidad a atender mediante un SBIA y que asume la responsabilidad funcional sobre sus resultados durante todo su ciclo de vida. Se distingue del custodio técnico, a cargo de la arquitectura y la operación del SBIA. [METGEP, numeral 4.9; METDONI, numeral 4.6; NTP-ISO/IEC 42001:2025, cláusula 5.3]
 Red Teaming: Práctica de seguridad ofensiva que simula ataques adversarios contra un SBIA para identificar vulnerabilidades previo a su despliegue. [NIST AI 600-1 (2024), sección 2.7; OWASP (2025)]
 Reserva tributaria: Carácter reservado de la información vinculada a los contribuyentes, conforme al artículo 85 del TUO del Código Tributario. [D.S. N.° 133-2013-EF, Art. 85]
 Riesgo de IA: Combinación de la probabilidad de ocurrencia de daños derivados del uso de un SBIA y la severidad de esos daños. [ISO/IEC 23894:2023, sección 3.1]
@@ -431,7 +433,6 @@ Visto bueno del Intendente de la unidad solicitante.
 
 Son **pendientes atrapados en el archivo**: no aparecen en ningún briefing. Conviene llevarlos al backlog de Notion.
 
-- **Kut Castro Mario Fernando** (2026-07-21): Alinearlo de acuerdo al ROF referente a la competencia de formular iniciativas de SBIA, (unidades normativas de negocio y las unidades administrativas, TI), revisar competencias.
 - **Kut Castro Mario Fernando** (2026-07-21): Revisar
 - **Kut Castro Mario Fernando** (2026-07-21): Representantes INGP, INER, INDIA, (Para revisión del ROF), a evaluar.
 - **Kut Castro Mario Fernando** (2026-07-21): Analizar bajo METDONI.
