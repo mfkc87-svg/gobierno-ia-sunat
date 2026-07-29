@@ -5,10 +5,10 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **29.07.2026 01:43**
+- Última modificación del `.docx`: **29.07.2026 02:10**
 - Párrafos: 383
-- Resaltados: {'yellow': 213, 'lightGray': 71, 'cyan': 64}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Comentarios pendientes en el documento: 3
+- Resaltados: {'yellow': 206, 'lightGray': 87, 'cyan': 65}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Comentarios pendientes en el documento: 2
 
 ## Carátula — contenido de los cuadros de texto
 
@@ -182,7 +182,7 @@ Los roles y responsabilidades del Gobierno de IA se asignan tomando como referen
 | Arquitectura de IA | Ger. Arquitectura (INSI) | Define los lineamientos y el marco de arquitectura para los SBIA. Revisa y aprueba el uso de nuevas tecnologías de IA, en el ámbito de su competencia. |
 | Gestión de proyectos y procesos de TI | Ger. Gestión de Procesos y Proyectos de Sistemas (INSI) | Asegura que los proyectos de SBIA se conduzcan conforme al procedimiento de gestión de proyectos de TI. Integra los SBIA al Plan de Sistemas de la INSI. |
 | Integración de programas y proyectos institucionales | OIPPI | Promueve un enfoque holístico, sistémico y con sinergia en el desarrollo del caso de negocio de las iniciativas de SBIA. Promueve la reusabilidad de las soluciones tecnológicas en el desarrollo del caso de negocio de los SBIA. |
-| Representante de Negocio | Superintendencias Nacionales Adjuntas | Aporta la visión de negocio a la Comisión de Gobierno de IA. Identifica y prioriza las iniciativas de negocio susceptibles de generar valor mediante SBIA. Participa en la evaluación de los casos de uso desde la perspectiva de negocio. |
+| Visión de negocio | Órganos de línea, por designación de la Superintendencia Nacional Adjunta de la que dependen | En materia de negocio: aporta a la Comisión de Gobierno de IA la visión del ámbito de la Superintendencia Nacional Adjunta que lo designa. Contribuye a la evaluación del componente de IA con el conocimiento operativo de los procesos de dicho ámbito y de su impacto en los administrados. Su participación es permanente y no sustituye la del propietario del caso de uso, a quien la Comisión convoca cuando se evalúa un caso de uso de su proceso, conforme al numeral   5.3.2. |
 | Gestión de Recursos Humanos y desarrollo de capacidades | INRH | Define las estrategias de gestión de recursos humanos relacionadas con la adopción y el uso de los SBIA. Conduce las acciones de sensibilización, concientización y capacitación en IA, diferenciadas por grupos de uso de SBIA. Lidera la gestión del cambio asociada a la adopción de la inteligencia artificial en el ámbito de las personas. Actualiza anualmente dichas acciones e informa su avance al CGTD. Coordina con la INSI la definición de los contenidos técnicos. |
 
 DISPOSICIONES ESPECÍFICAS
@@ -434,5 +434,4 @@ Visto bueno del Intendente de la unidad solicitante.
 Son **pendientes atrapados en el archivo**: no aparecen en ningún briefing. Conviene llevarlos al backlog de Notion.
 
 - **Kut Castro Mario Fernando** (2026-07-21): Revisar
-- **Kut Castro Mario Fernando** (2026-07-21): Representantes INGP, INER, INDIA, (Para revisión del ROF), a evaluar.
 - **Kut Castro Mario Fernando** (2026-07-21): Analizar bajo METDONI.
