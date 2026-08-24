@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **24.08.2026 17:27**
-- Párrafos: 394
-- Resaltados: {'yellow': 199, 'lightGray': 82, 'green': 161, 'cyan': 63}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **24.08.2026 17:54**
+- Párrafos: 395
+- Resaltados: {'yellow': 199, 'lightGray': 82, 'green': 176, 'cyan': 63}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -160,7 +160,7 @@ Los roles y responsabilidades del Gobierno de IA se asignan tomando como referen
 | Instancias de Gobierno de IA |
 | Rol | Unidad Orgánica | Responsabilidades |
 | Alta Dirección | Superintendencia Nacional | Aprueba la Política y Directivas de IA. Aprueba el Plan de Acción de IA (PAIA), que forma parte del Portafolio de Proyectos del PGD, y asigna los recursos institucionales para su implementación. Conforma la Comisión de Gobierno de IA mediante RS. Aprueba el informe anual de IA para la SGTD. Impulsa la adopción institucional de la inteligencia artificial y aprueba las inversiones asociadas. |
-| CGTD (en materia de IA) | CGTD | Lidera, dirige, evalúa y supervisa los proyectos de SBIA estratégicos. Aprueba la clasificación de riesgo de los SBIA de riesgo alto y de los estratégicos para la entidad, así como los casos de uso y la estrategia de IA. La clasificación de los SBIA de riesgo aceptable la aprueba la Comisión de Gobierno de IA, conforme al numeral 6.2.2. Aprueba la EIA de SBIA de riesgo alto. Resuelve sobre la procedencia del uso del componente de IA cuando la Comisión de Gobierno de IA emite pronunciamiento no favorable, conforme al numeral 6.1.4.Revisa los informes trimestrales de la Comisión de Gobierno de IA. |
+| CGTD (en materia de IA) | CGTD | Lidera, dirige, evalúa y supervisa los proyectos de SBIA estratégicos. Aprueba la clasificación de riesgo de los SBIA de riesgo alto y de los estratégicos para la entidad, así como los casos de uso y la estrategia de IA. La clasificación de los SBIA de riesgo aceptable la aprueba la Comisión de Gobierno de IA, conforme al numeral 6.2.2. Aprueba la EIA de SBIA de riesgo alto. Resuelve sobre la procedencia del uso del componente de IA cuando la Comisión de Gobierno de IA emite pronunciamiento no favorable, conforme al numeral 6.1.4. Revisa los informes trimestrales de la Comisión de Gobierno de IA. |
 | Comisión de Gobierno de IA | CGTD | Preparar la propuesta de estrategia institucional de IA y sus actualizaciones, para aprobación del CGTD. Evaluar el componente de IA de los casos de uso propuestos por los órganos de línea, con el alcance previsto en el numeral 6.15.1, y elevar al CGTD su recomendación fundamentada. Cuando otra unidad de organización ya se ha pronunciado dentro de su competencia, la Comisión no vuelve a evaluar esa materia: toma su pronunciamiento y se pronuncia solo sobre el componente de IA. Proponer la clasificación de riesgo de cada SBIA, previo al inicio del desarrollo o adquisición; su aprobación corresponde conforme al numeral 6.2.2. Asegurar el cumplimiento del Gobierno de IA en la SUNAT. Coordinar la elaboración de las evaluaciones de impacto algorítmico y elevar sus conclusiones al CGTD. Administrar el Inventario Institucional de SBIA. Supervisar el cumplimiento de los hitos de aprobación del ciclo de vida de los SBIA y consolidar los informes de monitoreo, auditoría e incidentes para conocimiento del CGTD. Proponer lineamientos técnicos complementarios en materia de gobierno de IA y coordinar la articulación con la SGTD-PCM. Administrar y centralizar la evaluación de los riesgos de los SBIA. Convocar a otras unidades de organización y a especialistas adicionales según la materia y la complejidad del caso de uso. |
 
 | Integrantes de la Comisión de Gobierno de IA |
@@ -181,7 +181,7 @@ Los roles y responsabilidades del Gobierno de IA se asignan tomando como referen
 DISPOSICIONES ESPECÍFICAS
 De la gestión y la evaluación de los SBIA
 6.1	Del ciclo de vida de los SBIA
-6.1.1	Todo SBIA en la SUNAT sigue un ciclo de vida gestionado con las siguientes etapas. El ciclo de vida establecido en este numeral identifica las etapas y los hitos propios del componente de IA:
+6.1.1	Todo SBIA en la SUNAT sigue un ciclo de vida gestionado, con las etapas y los hitos propios del componente de IA que se detallan a continuación. Este ciclo no sustituye ni duplica a los instrumentos institucionales que regulan la gestión de proyectos y el desarrollo de sistemas: se apoya en las conformidades que las unidades de organización competentes emiten conforme a ellos y añade únicamente lo que es propio de la inteligencia artificial. Su desarrollo metodológico se efectúa conforme al numeral 6.1.5.
 
 | N.° | Etapa | Descripción | Hito de Aprobación |
 | 1 | Ideación | El propietario del caso de uso formula el caso de uso: identifica la necesidad institucional, define el problema a resolver y el resultado esperado, y lo presenta a la Comisión de Gobierno de IA mediante la Ficha de Evaluación de Caso de Uso (Anexo N.° 4). | La Comisión de Gobierno de IA evalúa la Ficha y eleva la recomendación fundamentada. Aprobación conforme al numeral 6.1.2. |
@@ -219,7 +219,7 @@ Del diseño, la operación y la seguridad de los SBIA
 6.5.4   Todo SBIA cuenta con la aprobación de su arquitectura de solución por la GA, previa al inicio del desarrollo, la adquisición o el entrenamiento, conforme a la etapa 3 del numeral 6.1.1. Los requisitos derivados del nivel de riesgo aprobado, incluidos los mecanismos de supervisión humana, explicabilidad y trazabilidad, se incorporan como requisitos no funcionales de la solución.
 6.5.5   Los SBIA que ejecuten acciones sobre sistemas, datos o procesos con algún grado de autonomía incorporan mecanismos de autorización, restricción y registro de dichas acciones, proporcionales al nivel de riesgo aprobado y al grado de autonomía asignado. El propietario del caso de uso define el alcance de las acciones autorizadas; la GA verifica su implementación antes del despliegue.
 6.5.6 Los SBIA generativos que utilicen información institucional incorporan mecanismos que vinculen los resultados generados con sus fuentes de información autorizadas y vigentes. Esta trazabilidad sustenta la explicabilidad exigida en el numeral 6.9.3.
-6.5.7   La publicación del código fuente de los SBIA financiados con fondos públicos, con licencia libre o abierta en la Plataforma Nacional de Software Público Peruano (PNSSP), se sujeta a la determinación previa de su publicabilidad. Dicha determinación verifica que el código no revele información sujeta a reserva tributaria conforme al artículo 85 del TUO del Código Tributario, información protegida por confidencialidad aduanera, ni reglas de detección de riesgo cuya divulgación comprometa la función de control. La GA, con opinión de la INALI y de la Oficina de Seguridad Informática, determina la publicabilidad antes de cada liberación mayor; la GDS ejecuta la publicación cuando corresponda.
+6.5.7   La publicación del código fuente de los SBIA financiados con fondos públicos, con licencia libre o abierta en la Plataforma Nacional de Software Público Peruano (PNSSP), se sujeta a la determinación previa de su publicabilidad. Dicha determinación verifica que el código no revele información sujeta a reserva tributaria conforme al artículo 85 del TUO del Código Tributario, ni reglas de detección de riesgo cuya divulgación comprometa la función de control. La GA, con opinión de la INALI y de la Oficina de Seguridad Informática, determina la publicabilidad antes de cada liberación mayor; la GDS ejecuta la publicación cuando corresponda.
 6.6	De la supervisión humana
 6.6.1	Todo SBIA cuenta con un mecanismo de supervisión humana proporcional a su nivel de riesgo. En los SBIA de riesgo alto que intervengan en decisiones con impacto significativo, la supervisión humana es obligatoria; su extensión a los demás SBIA de riesgo alto y a los de riesgo aceptable es una decisión institucional. La correspondencia es la siguiente:
 Human-in-the-loop (obligatorio para riesgo alto): Un supervisor humano valida cada decisión o resultado del SBIA antes de su ejecución o comunicación al administrado. Aplica a: selección de contribuyentes para fiscalización, determinación de deuda, clasificación arancelaria.
@@ -412,7 +412,7 @@ despliegue.
 Instrumento de gestión bajo el cual se formula la iniciativa y documento al que se remite
 la información no consignada en esta ficha.
 Fecha de presentación.
-Sección 2 — Problema y justificación:
+Sección 2 — Necesidad y pertinencia del uso de IA:
 Descripción sintética del problema o necesidad, o remisión a la fuente de la información donde se encuentra.
 Alternativa sin inteligencia artificial: describir la solución basada en reglas, automatización o análisis convencional que se evaluó, y por qué no satisface la necesidad.
 Mejora esperada del uso de IA frente a esa alternativa, expresada en un indicador medible.
@@ -427,7 +427,7 @@ administrado, influencia en la decisión o decisión sin intervención humana.
 Punto del proceso en que interviene el SBIA y momento en que un funcionario conoce su resultado.
 Sección 4 — Datos:
 Datos requeridos: fuentes, tipos, presencia de datos personales, de información sujeta a reserva tributaria.
-
+Base legal que habilita el uso de dichos datos para la finalidad del SBIA, conforme al numeral 6.8.3 de la Directiva de IA, y restricciones aplicables.
 Sección 5 — Efecto sobre las personas y los procesos:
 Efecto del resultado del SBIA en derechos, obligaciones o en la atención de los administrados.
 Alcance estimado: personas, contribuyentes u operaciones comprendidas, y volumen previsto.
