@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **24.08.2026 17:54**
-- Párrafos: 395
-- Resaltados: {'yellow': 199, 'lightGray': 82, 'green': 176, 'cyan': 63}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **24.08.2026 18:04**
+- Párrafos: 396
+- Resaltados: {'yellow': 199, 'lightGray': 82, 'green': 174, 'cyan': 63}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -426,8 +426,9 @@ Grado de autonomía previsto: asistencia al funcionario, interacción directa co
 administrado, influencia en la decisión o decisión sin intervención humana.
 Punto del proceso en que interviene el SBIA y momento en que un funcionario conoce su resultado.
 Sección 4 — Datos:
-Datos requeridos: fuentes, tipos, presencia de datos personales, de información sujeta a reserva tributaria.
-Base legal que habilita el uso de dichos datos para la finalidad del SBIA, conforme al numeral 6.8.3 de la Directiva de IA, y restricciones aplicables.
+Datos requeridos: fuentes, tipos y presencia de datos personales o de información sujeta a reserva tributaria.
+Base legal que habilita el uso de dichos datos para la finalidad del SBIA, conforme al
+numeral 6.8.3 de la presente directiva, y restricciones aplicables.
 Sección 5 — Efecto sobre las personas y los procesos:
 Efecto del resultado del SBIA en derechos, obligaciones o en la atención de los administrados.
 Alcance estimado: personas, contribuyentes u operaciones comprendidas, y volumen previsto.
