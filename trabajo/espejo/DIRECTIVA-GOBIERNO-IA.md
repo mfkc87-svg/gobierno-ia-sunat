@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **28.08.2026 10:50**
-- Párrafos: 410
-- Resaltados: {'yellow': 151, 'lightGray': 74, 'green': 606, 'cyan': 47}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **28.08.2026 11:26**
+- Párrafos: 412
+- Resaltados: {'yellow': 152, 'lightGray': 78, 'green': 605, 'cyan': 47}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -91,12 +91,13 @@ Enfoque C: SBIA desarrollados internamente o por terceros bajo especificaciones 
 BASE NORMATIVA
 Ley N.° 31814 (05/07/2023), Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país.
 Decreto Supremo N.° 115-2025-PCM (09/09/2025), que aprueba el Reglamento de la Ley N.° 31814 (RLIA).
-Resolución Ministerial N.° 152-2026-PCM (29/04/2026), que aprueba la Estrategia Nacional de Inteligencia Artificial (ENIA) 2026-2030.
+Resolución Ministerial N.° 152-2026-PCM (01/05/2026), que aprueba la Estrategia Nacional de Inteligencia Artificial (ENIA) 2026-2030.
 Resolución Ministerial N.° 049-2026-PCM, que aprueba la Estrategia Nacional de Gobierno de Datos 2026-2030 (ENGD).
+Resolución Ministerial N.° 119-2018-PCM (10/05/2018), que dispone la creación de un Comité de Gobierno Digital en cada entidad de la Administración Pública y establece sus funciones, modificada por la Resolución Ministerial N.° 087-2019-PCM (22/03/2019).
 Decreto Legislativo N.° 1412 (13/09/2018), que aprueba la Ley de Gobierno Digital, y sus modificatorias.
 Decreto de Urgencia N.° 006-2020 (08/01/2020), que crea el Sistema Nacional de Transformación Digital.
 Decreto Supremo N.° 157-2021-PCM (25/09/2021), que aprueba el Reglamento del Decreto de Urgencia N.° 006-2020; en particular su cuarta disposición complementaria final, conforme a la cual toda mención al Comité de Gobierno Digital se entiende referida al Comité de Gobierno y Transformación Digital.
-Decreto Supremo N.° 029-2021-PCM (18/02/2021), que aprueba el Reglamento del Decreto Legislativo N.° 1412, y su modificatoria aprobada por Decreto Supremo N.° 098-2025-PCM.
+Decreto Supremo N.° 029-2021-PCM (18/02/2021), que aprueba el Reglamento del Decreto Legislativo N.° 1412, y sus modificatorias aprobadas por Decreto Supremo N.° 075-2023-PCM y Decreto Supremo N.° 098-2025-PCM (31/07/2025).
 Decreto Supremo N.° 133-2013-EF (22/06/2013), que aprueba el Texto Único Ordenado del Código Tributario; en particular el artículo 85 sobre reserva tributaria.
 Decreto Legislativo N.° 1053 (27/06/2008), que aprueba la Ley General de Aduanas, y su Reglamento; en lo relativo a la confidencialidad de la información aduanera.
 Ley N.° 29733 (03/07/2011), Ley de Protección de Datos Personales, y su Reglamento aprobado por Decreto Supremo N.° 003-2013-JUS (22/03/2013).
@@ -106,11 +107,12 @@ Norma Técnica Peruana NTP-ISO/IEC 27002 vigente, Controles de seguridad de la i
 Norma Técnica Peruana NTP-ISO/IEC 27005 vigente, Orientación sobre la gestión de los riesgos de seguridad de la información.
 Norma Técnica Peruana NTP-ISO 31000 vigente, Gestión del riesgo.
 Resolución de Superintendencia N.° 000159-2024/SUNAT (02/08/2024), que aprueba el Texto Integrado del Reglamento de Organización y Funciones de la Superintendencia Nacional de Aduanas y de Administración Tributaria - SUNAT (ROF).
-Resolución Ministerial N.° 119-2018-PCM (10/05/2018), que dispone la creación de un Comité de Gobierno Digital en cada entidad de la Administración Pública y establece sus funciones, modificada por la Resolución Ministerial N.° 087-2019-PCM (22/03/2019).
 Resolución de Superintendencia N.° 084-2019/SUNAT (12/04/2019), que conforma el Comité de Gobierno Digital, hoy Comité de Gobierno y Transformación Digital CGTD de la SUNAT, modificada por las Resoluciones de Superintendencia N.° 142-2019/SUNAT y N.° 000187-2024/SUNAT.
 Resolución de Superintendencia N.° 000144-2026/SUNAT (30/07/2026), que aprueba la Política de uso seguro, responsable y ético de los sistemas basados en inteligencia artificial en la Superintendencia Nacional de Aduanas y de Administración Tributaria, en adelante, la Política de IA.
-Resolución de Oficina N.° 001-2024-SUNAT/1V0000, que aprueba la Metodología para la formulación, aprobación y control de los Documentos Normativos Institucionales (METDONI) Versión 1.4.
-Resolución de Oficina N.° 000002-2023-SUNAT/1V0000, que aprueba la Metodología para la Gestión por Procesos (METGEP) Versión 5.
+Resolución de Superintendencia N.° 173-2018/SUNAT (13/07/2018), que aprueba los documentos de Política, Objetivos y Alcance del Sistema de Gestión de Seguridad de la Información de la SUNAT, entre ellos la Política de Seguridad de la Información (SGSI-PO-01).
+Resolución de Superintendencia N.° 050-2019/SUNAT (06/03/2019), que aprueba los documentos del Sistema de Gestión de Seguridad de la Información de la SUNAT, entre ellos el Manual de Políticas del Sistema de Gestión de Seguridad de la Información (SGSI-MA-03).
+Resolución de Oficina N.° 001-2024-SUNAT/1V0000 (16/12/2024), que aprueba la Metodología para la formulación, aprobación y control de los Documentos Normativos Institucionales (METDONI) Versión 1.4.
+Resolución de Oficina N.° 000002-2023-SUNAT/1V0000 (22/12/2023), que aprueba la Metodología para la Gestión por Procesos (METGEP) Versión 5.0.
 Resolución de Intendencia N.° 004-2019/SUNAT/1U0000 (02/09/2019), que aprueba los Principios de Arquitectura de TI.
 Resolución de Intendencia N.° 011-2019/SUNAT/1U0000 (21/10/2019), que aprueba los Lineamientos de Arquitectura de TI.
 
