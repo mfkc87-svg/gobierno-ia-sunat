@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **28.08.2026 18:49**
+- Última modificación del `.docx`: **30.08.2026 17:38**
 - Párrafos: 437
-- Resaltados: {'yellow': 136, 'lightGray': 49, 'green': 290, 'cyan': 39}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 107, 'lightGray': 43, 'green': 232, 'cyan': 33}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -30,14 +30,14 @@ Agosto 2026
 
 ÍNDICE
 
-I.	OBJETIVO	5
-II.	ALCANCE	5
-III.	BASE NORMATIVA	5
-IV.	GLOSARIO DE TÉRMINOS	8
-V.	DISPOSICIONES GENERALES	10
-VI.	DISPOSICIONES ESPECÍFICAS	18
-VII.	DISPOSICIONES FINALES	44
-VIII.	ANEXOS	46
+I.	OBJETIVO	4
+II.	ALCANCE	4
+III.	BASE NORMATIVA	4
+IV.	GLOSARIO DE TÉRMINOS	6
+V.	DISPOSICIONES GENERALES	7
+VI.	DISPOSICIONES ESPECÍFICAS	10
+VII.	DISPOSICIONES FINALES	21
+VIII.	ANEXOS	22
 
 SIGLAS
 CGTD: Comité de Gobierno y Transformación Digital
@@ -278,7 +278,7 @@ De la transparencia y el control de los SBIA
 6.9	De la transparencia, explicabilidad y rendición de cuentas
 6.9.1	Los SBIA de riesgo alto cuentan con mecanismos de transparencia algorítmica que informan al usuario, de forma previa, clara y sencilla, la finalidad o uso del SBIA, sus funcionalidades principales y el tipo de decisiones que puede tomar, de modo que comprenda cómo interactúa con el SBIA o con el servicio que lo emplea. La descripción de dichos mecanismos consta en la Ficha de Registro de SBIA (Anexo N.° 1). El alcance de la transparencia algorítmica es el definido en el glosario de la presente directiva. La atención de las solicitudes de acceso a la información que versen sobre un SBIA se sujeta a dicho alcance y a los límites legales aplicables.
 6.9.2	Entre los mecanismos del numeral 6.9.1 se incluye el etiquetado visible del SBIA. El etiquetado informa al usuario, con antelación, que el producto, servicio o contenido se opera con base en IA. Permite además comprender de manera general sus principales capacidades y limitaciones funcionales. El etiquetado alcanza también a todo SBIA que interactúe directamente con el administrado, cualquiera sea su nivel de riesgo. Este etiquetado se aplica cuando resulta relevante para la toma de decisión o la interacción del usuario, sea este un administrado o un trabajador de la SUNAT, conforme al numeral 25.2 del artículo 25 del RLIA. No es exigible cuando la IA apoya procesos administrativos internos sin impacto directo en la toma de decisiones que afecten derechos o servicios a las personas. La relevancia se determina para cada SBIA y su resultado consta en la Ficha de Registro de SBIA (Anexo N.° 1).
-6.9.3	Los SBIA de riesgo alto cuentan con mecanismos de explicabilidad que permitan comprender los factores que influyeron en un resultado. Cuando un SBIA intervenga en decisiones que impacten en los derechos de los administrados, estos tienen derecho a recibir la explicación de los resultados, mediante mecanismos que permitan comprender los criterios y factores clave utilizados, en un lenguaje accesible. Constituyen mecanismos de explicabilidad, según el tipo de SBIA y entre otros: la identificación de las variables o factores que influyeron en el resultado y su peso relativo; la trazabilidad del resultado hacia las fuentes de información que lo sustentan; el registro de la cadena de razonamiento cuando el SBIA la produzca; y la documentación del modelo, que comprende su finalidad, la procedencia de los datos empleados, las métricas de desempeño y las limitaciones conocidas. El custodio técnico genera y mantiene actualizada dicha documentación como condición previa al despliegue del SBIA, y su existencia se verifica en la etapa de certificación y validación del numeral 6.1.1. La explicación se proporciona con el alcance que determina el numeral 25.3 del artículo 25 del RLIA y con las limitaciones que establecen las normas sobre reserva tributaria y sobre confidencialidad de la información aduanera. Los mecanismos exigibles por tipo de SBIA y el contenido mínimo de la documentación se desarrollan en la metodología prevista en el numeral 6.1.5.
+6.9.3	Los SBIA de riesgo alto cuentan con mecanismos de explicabilidad que permitan comprender los factores que influyeron en un resultado. Cuando un SBIA intervenga en decisiones que impacten en derechos humanos, las personas afectadas tienen derecho a recibir la explicación de los resultados, conforme al numeral 25.3 del artículo 25 del RLIA. La explicación se proporciona mediante mecanismos que permitan comprender los criterios y factores clave utilizados, en un lenguaje accesible. Constituyen mecanismos de explicabilidad, según el tipo de SBIA y entre otros: la identificación de las variables o factores que influyeron en el resultado y su peso relativo; la trazabilidad del resultado hacia las fuentes de información que lo sustentan; el registro de la cadena de razonamiento cuando el SBIA la produzca; y la documentación del modelo, que comprende su finalidad, la procedencia de los datos empleados, las métricas de desempeño y las limitaciones conocidas. El custodio técnico genera y mantiene actualizada dicha documentación como condición previa al despliegue del SBIA, y su existencia se verifica en la etapa de certificación y validación del numeral 6.1.1. La explicación se proporciona con el alcance que determina el numeral 25.3 del artículo 25 del RLIA y con las limitaciones que establecen las normas sobre reserva tributaria y sobre confidencialidad de la información aduanera. Los mecanismos exigibles por tipo de SBIA y el contenido mínimo de la documentación se desarrollan en la metodología prevista en el numeral 6.1.5.
 6.9.4	El funcionario no debe sustentar la motivación de actos administrativos exclusivamente en resultados de un SBIA. El funcionario debe incorporar su análisis y criterio profesional.
 6.9.5    La Comisión de Gobierno de IA reporta trimestralmente al CGTD el estado del Inventario Institucional de SBIA, los incidentes, los resultados del monitoreo, la verificación técnica de seguridad, el avance de la capacitación y el cumplimiento de los indicadores. El reporte comprende además el seguimiento de los encargos previsto en el numeral 7.6, el estado de las condiciones del PAIA previsto en el numeral 7.11 y el alineamiento previsto en el numeral 7.12. Dicho reporte constituye el informe trimestral de gobierno de IA. Da cuenta de la actividad de la Comisión de Gobierno de IA y no constituye avance del Plan de Gobierno Digital.
 6.9.6	El estado del gobierno de IA institucional se informa como sección del informe de seguimiento del Plan de Gobierno Digital que presenta el CGTD, con la periodicidad y por el conducto que dicho instrumento establece. La inclusión de los proyectos de SBIA en el Plan de Gobierno Digital se efectúa conforme al numeral 28.10 del artículo 28 del RLIA y a los numerales 7.11 y 7.12 de la presente directiva. Dicha sección sustenta la información que la SUNAT remita a la SGTD en materia de inteligencia artificial. No se genera un informe institucional adicional por esta materia.
