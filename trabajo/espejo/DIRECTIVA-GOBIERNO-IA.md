@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **31.08.2026 12:05**
+- Última modificación del `.docx`: **31.08.2026 12:52**
 - Párrafos: 442
-- Resaltados: {'yellow': 107, 'lightGray': 43, 'green': 232, 'cyan': 33}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 135, 'lightGray': 47, 'green': 281, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -334,7 +334,7 @@ La Intendencia Nacional de Recursos Humanos fortalece de manera progresiva y sis
 Las necesidades de capacitación asociadas a los distintos roles, los contenidos formativos, las modalidades de capacitación y los mecanismos de evaluación de resultados se determinan en el marco normativo del Plan de Desarrollo de las Personas. La Intendencia Nacional de Recursos Humanos las incorpora en dicho instrumento a propuesta de la Comisión de Gobierno de IA. En tanto no se incorporen, las acciones formativas en materia de IA se ejecutan conforme al presente numeral.
 Estas acciones consideran, como mínimo:
 Los fundamentos y el ciclo de vida de los SBIA.
-La gestión de los riesgos de IA y la seguridad de la información aplicables.
+La gestión de los riesgos de IA.
 La ética, integridad y responsabilidad en el uso de la IA.
 La protección de datos personales.
 La protección de la reserva tributaria cuando los sistemas procesen información de los administrados.
