@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **31.08.2026 12:52**
+- Última modificación del `.docx`: **31.08.2026 13:01**
 - Párrafos: 442
-- Resaltados: {'yellow': 135, 'lightGray': 47, 'green': 281, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 137, 'lightGray': 47, 'green': 289, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -379,7 +379,7 @@ DISPOSICIONES FINALES
 7.10	El Oficial de Inteligencia Artificial (OIA) de la SUNAT, previsto en el artículo 6 de la Resolución Ministerial N.° 152-2026-PCM, que aprueba la ENIA, recae en un miembro del CGTD y coordina el gobierno y la gestión de la inteligencia artificial institucional, así como el seguimiento del Plan de Acción de Inteligencia Artificial. Su designación se efectúa mediante acto de la máxima autoridad administrativa de la entidad, previamente a la formulación del Plan de Acción de Inteligencia Artificial. Su perfil, responsabilidades, designación y articulación se determinan conforme a los lineamientos que emita la SGTD, en aplicación de la Primera Disposición Complementaria Final de la citada Resolución Ministerial. En tanto no se emitan dichos lineamientos y no se designe al OIA, el Coordinador designado conforme al numeral 7.3 ejerce las funciones de coordinación técnica en materia de IA. Designado el OIA, la coordinación de la Comisión de Gobierno de IA recae en él, salvo que los lineamientos de la SGTD dispongan una articulación distinta. La Comisión de Gobierno de IA evalúa su articulación conforme a dichos lineamientos y propone al CGTD los ajustes que correspondan. El OIA ejerce sus funciones en el ámbito de sus competencias técnicas, sin asumir responsabilidad por las decisiones de gestión institucional que corresponden a los órganos competentes. Así lo establece el numeral 6.6 del artículo 6 de la citada Resolución Ministerial.
 7.11	El Plan de Acción de Inteligencia Artificial (PAIA) forma parte del Portafolio de Proyectos del PGD, conforme al numeral 5.5 del artículo 5 de la Resolución Ministerial N.° 152-2026-PCM. Su aprobación requiere que la SUNAT haya aprobado o implementado previamente su Plan de Acción de Gobierno de Datos (PAGD), conforme al numeral 5.4 del mismo artículo de dicha Resolución Ministerial; el PAGD forma parte del PGD y su formulación la coordina el CGTD, en concordancia con la ENGD. Las iniciativas, proyectos y acciones priorizadas en el PAIA se articulan con el Plan Estratégico Institucional, el Plan Operativo Institucional, el Programa Multianual de Inversiones y el PGD, conforme al numeral 4.4 del artículo 4 de la misma Resolución Ministerial y al numeral 28.10 del artículo 28 del RLIA. La formulación del PAIA corresponde al OIA, conforme al numeral 6.4 del artículo 6 de la citada Resolución Ministerial, una vez designado según el numeral 7.10 y aprobado o implementado el PAGD. Aprobado el PAIA, el CGTD aprueba la conformación del Equipo Técnico de Datos e Inteligencia Artificial (ETDIA), conforme al artículo 7 de la citada Resolución Ministerial. La Comisión de Gobierno de IA informa al CGTD, en el informe trimestral del numeral 6.9.5, el estado de las condiciones previstas en el presente numeral.
 7.12    Las iniciativas, proyectos y acciones que incorporen un componente basado en IA y no se encuentren comprendidos en el PAIA acreditan su alineamiento con un objetivo del PGD o del Plan Estratégico Institucional mediante la evidencia documentada que corresponda. La Comisión de Gobierno de IA verifica dicho alineamiento y lo reporta en el informe trimestral del numeral 6.9.5.
-7.13	El OIA reporta trimestralmente al CGTD el seguimiento de la implementación del PAIA, conforme al numeral 8.3 del artículo 8 de la Resolución Ministerial N.° 152-2026-PCM. Dicho reporte se integra al informe trimestral de gobierno de IA previsto en el numeral 6.9.5. Asimismo, el OIA registra los avances de la implementación del PAIA en la Plataforma de Cumplimiento Digital, en el último trimestre de cada año, conforme al numeral 8.4 del mismo artículo. La Comisión de Gobierno de IA le proporciona la información institucional que requiera para ambos fines.
+7.13	El OIA reporta trimestralmente al CGTD el seguimiento de la implementación del PAIA, conforme al numeral 8.3 del artículo 8 de la Resolución Ministerial N.° 152-2026-PCM. Dicho reporte se integra al informe trimestral de gobierno de IA previsto en el numeral 6.9.5. Asimismo, el OIA registra los avances de la implementación del PAIA en la Plataforma de Cumplimiento Digital, en el último trimestre de cada año, conforme al numeral 8.4 del mismo artículo.
 ANEXOS
 Anexo N.° 1. Ficha de Registro de SBIA (Campos mínimos del Inventario)
 Anexo N.° 2. Matriz de Clasificación de Riesgos de IA
@@ -468,6 +468,7 @@ Tipo de IA previsto.
 Grado de autonomía previsto: asistencia al funcionario, interacción directa con el
 administrado, influencia en la decisión o decisión sin intervención humana.
 Punto del proceso en que interviene el SBIA y momento en que un funcionario conoce su resultado.
+
 Sección 4 — Datos:
 Datos requeridos: fuentes, tipos y presencia de datos personales, de datos sensibles, de datos biométricos o de información sujeta a reserva tributaria.
 Base legal que habilita el uso de dichos datos para la finalidad del SBIA, conforme al
