@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **01.09.2026 21:33**
+- Última modificación del `.docx`: **01.09.2026 21:39**
 - Párrafos: 442
-- Resaltados: {'yellow': 134, 'lightGray': 47, 'green': 291, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'yellow': 134, 'lightGray': 57, 'green': 299, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -30,14 +30,14 @@ Agosto 2026
 
 ÍNDICE
 
-I.	OBJETIVO	4
-II.	ALCANCE	4
-III.	BASE NORMATIVA	4
-IV.	GLOSARIO DE TÉRMINOS	6
-V.	DISPOSICIONES GENERALES	7
-VI.	DISPOSICIONES ESPECÍFICAS	10
-VII.	DISPOSICIONES FINALES	21
-VIII.	ANEXOS	22
+I.	OBJETIVO	5
+II.	ALCANCE	5
+III.	BASE NORMATIVA	5
+IV.	GLOSARIO DE TÉRMINOS	8
+V.	DISPOSICIONES GENERALES	10
+VI.	DISPOSICIONES ESPECÍFICAS	20
+VII.	DISPOSICIONES FINALES	46
+VIII.	ANEXOS	48
 
 SIGLAS
 CGTD: Comité de Gobierno y Transformación Digital
