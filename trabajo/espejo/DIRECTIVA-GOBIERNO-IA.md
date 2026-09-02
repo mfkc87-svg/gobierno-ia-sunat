@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **01.09.2026 21:39**
-- Párrafos: 442
-- Resaltados: {'yellow': 134, 'lightGray': 57, 'green': 299, 'cyan': 41}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **02.09.2026 09:38**
+- Párrafos: 443
+- Resaltados: {'yellow': 135, 'lightGray': 57, 'green': 305, 'cyan': 42}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -166,6 +166,7 @@ DISPOSICIONES GENERALES
 5.3	De la Comisión de Gobierno de IA
 5.3.1	Para el ejercicio efectivo de la función de gobierno de IA, el CGTD cuenta con la Comisión de Gobierno de IA, instancia de apoyo encargada de preparar las evaluaciones, los informes y las propuestas que el CGTD requiera para la toma de decisiones en materia de IA, y de ejercer las funciones de administración, supervisión y aprobación que la presente directiva le asigna. La Comisión de Gobierno de IA es coordinada por un Coordinador designado por el CGTD.
 5.3.2	Las funciones de la Comisión de Gobierno de IA, en apoyo al CGTD, se definen en el numeral 5.4 y en las disposiciones específicas de la presente directiva.
+
 5.4	De los roles y responsabilidades
 Los roles y responsabilidades del Gobierno de IA se asignan tomando como referencia las competencias y funciones establecidas en el ROF vigente, sin duplicarlas ni sustituirlas, y se detallan en el cuadro siguiente:
 
@@ -188,11 +189,12 @@ Los roles y responsabilidades del Gobierno de IA se asignan tomando como referen
 | Gestión de proyectos y procesos de TI | Ger. Gestión de Procesos y Proyectos de Sistemas (INSI) | Asegura que los proyectos de SBIA se conduzcan conforme al procedimiento de gestión de proyectos de TI. Asegura que los SBIA se incorporen al Plan de Sistemas de la INSI, que elabora la División de Gestión de Procesos de Sistemas conforme al literal a) del artículo 112 del ROF. |
 | Integración de programas y proyectos institucionales | OIPPI | Promueve un enfoque holístico, sistemático y con sinergia en el desarrollo del caso de negocio de las iniciativas de SBIA. Promueve la reusabilidad de las soluciones tecnológicas en el desarrollo del caso de negocio de los SBIA. |
 | Visión de negocio | Órganos de línea, por designación de la Superintendencia Nacional Adjunta de la que dependen | En materia de negocio: aporta a la Comisión de Gobierno de IA la visión del ámbito de la Superintendencia Nacional Adjunta que lo designa. Contribuye a la evaluación del componente de IA con el conocimiento operativo de los procesos de dicho ámbito y de su impacto en los administrados. Su participación es permanente y no sustituye la del propietario del caso de uso, a quien la Comisión convoca cuando se evalúa un caso de uso de su proceso. |
+
 | Otras unidades de organización con responsabilidad en el gobierno de IA |
+| Rol | Unidad Orgánica | Responsabilidades |
 | Gestión de Recursos Humanos y desarrollo de capacidades | INRH | Supervisa la formulación y actualización de las estrategias de gestión de recursos humanos relacionadas con la adopción y el uso de los SBIA, y las propone, conforme al literal a) del artículo 197 del ROF. Conduce el proceso de elaboración de las acciones de sensibilización, concientización y capacitación en IA, diferenciadas por grupos de uso de SBIA, y eleva la propuesta para su aprobación, conforme al literal f) del artículo 197 del ROF. Promueve la adopción de la inteligencia artificial en el ámbito de las personas, conforme al numeral 6.13.3. Actualiza anualmente dichas acciones e informa su avance al CGTD. Coordina con la INSI la definición de los contenidos técnicos. |
 | Interpretación normativa tributaria | INJT | Interpreta, con carácter vinculante, el sentido y el alcance de las normas tributarias, conforme al artículo 362 del ROF. Emite opinión legal vinculante sobre las consultas que le formulan las unidades de organización en las materias de su competencia, conforme al literal c) del artículo 363 del ROF. La Comisión de Gobierno de IA la convoca conforme a los numerales 6.4.2, 6.7.8 y 6.8.3. La Gerencia de Arquitectura solicita su opinión conforme al numeral 6.5.8. |
 | Interpretación normativa aduanera | INJA | Interpreta, con carácter vinculante, el sentido y el alcance de las normas en materia aduanera, conforme al artículo 453 del ROF. Emite opinión legal vinculante y absuelve las consultas que le formulan las unidades de organización en las materias de su competencia, conforme a los literales c) y d) del artículo 454 del ROF. Cuando la materia tenga incidencia tributaria, coordina con la Intendencia Nacional Jurídico Tributaria, conforme al literal c) del citado artículo. La Comisión de Gobierno de IA la convoca conforme a los numerales 6.4.2, 6.7.8 y 6.8.3. La Gerencia de Arquitectura solicita su opinión conforme al numeral 6.5.8. |
-
 
 DISPOSICIONES ESPECÍFICAS
 De la gestión y la evaluación de los SBIA
