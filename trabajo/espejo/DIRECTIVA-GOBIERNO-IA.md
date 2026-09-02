@@ -5,7 +5,7 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **02.09.2026 15:25**
+- Última modificación del `.docx`: **02.09.2026 16:12**
 - Párrafos: 444
 - Resaltados: {'yellow': 107, 'lightGray': 43, 'green': 233, 'cyan': 32}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
