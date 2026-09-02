@@ -5,7 +5,7 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **02.09.2026 10:10**
+- Última modificación del `.docx`: **02.09.2026 10:48**
 - Párrafos: 444
 - Resaltados: {'yellow': 135, 'lightGray': 57, 'green': 305, 'cyan': 42}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
@@ -179,7 +179,7 @@ Los roles y responsabilidades del Gobierno de IA se asignan tomando como referen
 
 | Integrantes de la Comisión de Gobierno de IA |
 | Rol | Unidad Orgánica | Responsabilidades |
-| Oficial de Inteligencia Artificial (OIA) | Miembro del CGTD | Coordina el gobierno y la gestión de la IA institucional y el seguimiento del PAIA. Supervisa y evalúa que los modelos y algoritmos de los SBIA de riesgo alto cumplan los estándares de calidad y ética aplicables, conforme al numeral 6.5 del artículo 6 de la Resolución Ministerial N.° 152-2026-PCM. La ejerce en coordinación con las unidades de organización y con los propietarios de los casos de uso, y se apoya en las verificaciones previstas en los numerales 6.10.3 y 6.14. |
+| Oficial de Inteligencia Artificial (OIA) | Miembro del CGTD | Coordina el gobierno y la gestión de la IA institucional y el seguimiento del PAIA. Supervisa y evalúa que los modelos y algoritmos de los SBIA de riesgo alto cumplan los estándares de calidad y ética aplicables, conforme al numeral 6.5 del artículo 6 de la Resolución Ministerial N.° 152-2026-PCM. La ejerce en coordinación con las unidades de organización y con los propietarios de los casos de uso, y se apoya en las verificaciones previstas en los numerales 6.6.4, 6.10.3 y 6.14. |
 | Oficial de Gobierno de Datos | Miembro del CGTD | En materia de calidad y gobernanza de los datos: promueve la calidad y el intercambio de los datos para evitar sesgos y asegurar su precisión y representatividad en los SBIA, conforme al numeral 6.8. Emite opinión sobre el uso de datos en los casos de uso de IA. |
 | Oficial de Datos Personales | Miembro del CGTD | En materia de tratamiento de datos personales: asegura el tratamiento adecuado de los datos personales en el desarrollo, implementación y uso de los SBIA conforme al numeral 6.7.6. Actúa como enlace con la Autoridad Nacional de Protección de Datos Personales. Emite opinión sobre el tratamiento de datos personales en los casos de uso de IA. |
 | Oficial de Seguridad y Confianza Digital | Miembro del CGTD | En materia de seguridad digital: asegura y supervisa la adopción de los estándares y normas técnicas de seguridad de la información cuando la INSI desarrolla, adquiere o terceriza SBIA. Propone las medidas de gestión de riesgos de seguridad de la información aplicables a los SBIA. Comunica al Centro Nacional de Seguridad Digital (CNSD) los incidentes de seguridad digital que involucren un SBIA y los informa a la máxima autoridad administrativa de la entidad, conforme a la Directiva N.° 001-2023-PCM/SGTD. Informa al CGTD los que resulten críticos. Cuando un SBIA constituya un activo de información de un proceso comprendido en el alcance del SGSI, coordina la aplicación de los controles que correspondan. |
