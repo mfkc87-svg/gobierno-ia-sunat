@@ -5,9 +5,9 @@
 > **Esto no es la fuente de verdad.** La fuente es `normativo/DIRECTIVA-GOBIERNO-IA.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **03.09.2026 15:47**
-- Párrafos: 451
-- Resaltados: {'yellow': 107, 'lightGray': 43, 'green': 233, 'cyan': 32}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **03.09.2026 16:05**
+- Párrafos: 452
+- Resaltados: {'yellow': 137, 'lightGray': 59, 'green': 307, 'cyan': 38}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -154,6 +154,7 @@ Sesgo algorítmico: Error sistemático que ocurre cuando un SBIA toma decisiones
 Sistema de Gestión de IA (SGIA): Conjunto de elementos interrelacionados o que interactúan de una organización para establecer políticas y objetivos, así como los procesos para lograrlos, aplicados a sus actividades relativas a la inteligencia artificial. [Adaptado de la NTP-ISO/IEC 42001:2025, cláusulas 3.4 y 4.4]
 Transparencia algorítmica: Puesta a disposición del usuario, en lenguaje claro y con anterioridad a su interacción, de la finalidad del SBIA, de sus funcionalidades principales, del tipo de decisiones en que interviene y de sus limitaciones conocidas. No comprende la entrega del modelo, de su código fuente, de sus parámetros, de los conjuntos de datos empleados en su entrenamiento ni de las reglas de detección de riesgo, cuya divulgación se sujeta a los límites derivados del artículo 85 del TUO del Código Tributario, del artículo 163 de la Ley General de Aduanas y de la normativa de protección de datos personales. [D.S. N.° 115-2025-PCM, artículo 25]
 Uso irregular: Empleo de un SBIA por quienes lo operan o interactúan con él en forma incompatible con su finalidad registrada o con la operación normal del proceso. Se distingue del uso indebido del artículo 23 del RLIA, que es una categoría de clasificación del SBIA. Se detecta conforme al numeral 6.10.6.
+
 DISPOSICIONES GENERALES
 5.1	De los principios para el Gobierno de IA
 5.1.1	El Gobierno de IA se alinea a los principios rectores establecidos en el artículo 7 del RLIA y a los compromisos de la Política de IA, en concordancia con la ENIA.
@@ -167,7 +168,6 @@ DISPOSICIONES GENERALES
 5.3.1	Para el ejercicio efectivo de la función de gobierno de IA, el CGTD cuenta con la Comisión de Gobierno de IA, instancia de apoyo encargada de preparar las evaluaciones, los informes y las propuestas que el CGTD requiera para la toma de decisiones en materia de IA, y de ejercer las funciones de administración, supervisión y aprobación que la presente directiva le asigna. La Comisión de Gobierno de IA es coordinada por un Coordinador designado por el CGTD.
 5.3.2	Las funciones de la Comisión de Gobierno de IA, en apoyo al CGTD, se definen en el numeral 5.4 y en las disposiciones específicas de la presente directiva.
 5.3.3	La condición de integrante de la Comisión de Gobierno de IA no limita ni condiciona el ejercicio de las funciones que el ROF y la normativa institucional asignan a cada unidad de organización que la integra. En particular, la Oficina de Integridad Institucional ejerce con independencia la supervisión prevista en el numeral 6.14 y el tratamiento de las conductas que se le comuniquen conforme al numeral 6.10.6, y la Intendencia Nacional de Asesoría Legal Interna ejerce con independencia la asesoría y la revisión en materia de cumplimiento normativo.
-
 5.4	De los roles y responsabilidades
 Los roles y responsabilidades del Gobierno de IA se asignan tomando como referencia las competencias y funciones establecidas en el ROF vigente, sin duplicarlas ni sustituirlas, conforme se detallan en la siguiente tabla:
 
@@ -341,7 +341,8 @@ El impacto social y ambiental de los SBIA.
 Esta disposición desarrolla el principio rector de sensibilización y educación en IA establecido en el literal f) del artículo 7 del RLIA, en concordancia con el numeral 7.3 de la NTP-ISO/IEC 42001:2025.
 6.13.2	Capacitación y fortalecimiento de capacidades
 La Intendencia Nacional de Recursos Humanos fortalece de manera progresiva y sistemática las capacidades y competencias de su personal en materia de SBIA mediante acciones formativas.
-Las necesidades de capacitación asociadas a los distintos roles, los contenidos formativos, las modalidades de capacitación y los mecanismos de evaluación de resultados se determinan en el marco normativo del Plan de Desarrollo de las Personas. La Intendencia Nacional de Recursos Humanos las incorpora en dicho instrumento a propuesta de la Comisión de Gobierno de IA. En tanto no se incorporen, las acciones formativas en materia de IA se ejecutan conforme al presente numeral.
+Las necesidades de capacitación asociadas a los distintos roles, los contenidos formativos, modalidades y los mecanismos de evaluación de resultados se determinan en el marco normativo del Plan de Desarrollo de las Personas (PDP), dentro de los plazos establecidos.
+En tanto la Comisión de Gobierno de IA no formule la propuesta correspondiente para su incorporación en el PDP, las acciones formativas en materia de IA se ejecutan conforme al presente numeral.
 Estas acciones consideran, como mínimo:
 Los fundamentos y el ciclo de vida de los SBIA.
 La gestión de los riesgos de IA.
