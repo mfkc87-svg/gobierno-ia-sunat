@@ -15,7 +15,7 @@ Uso, desde la raíz del repo:
     python generar_espejo.py
 
 Lee  normativo/*.docx  (y normativo/anexos/*.docx)
-Escribe  trabajo/espejo/<nombre>.md
+Escribe  trabajo/espejo/<nombre>.md  (texto, carátula, notas al pie y comentarios)
 """
 import datetime
 import os
@@ -58,6 +58,10 @@ def texto_de(nodo, excluir=frozenset()):
                 partes.append("\t")
             elif c.tag == W + "br":
                 partes.append("\n")
+            elif c.tag == W + "footnoteReference":
+                partes.append(f"[^{c.get(W + 'id')}]")
+            elif c.tag == W + "endnoteReference":
+                partes.append(f"[^e{c.get(W + 'id')}]")
     return "".join(partes)
 
 
@@ -135,6 +139,22 @@ def comentarios(z):
     return out
 
 
+def notas(z, parte, etiqueta, prefijo):
+    """Notas al pie (o al final) del Word. Muchas citas normativas viven ahi: sin ellas,
+    el espejo haria creer que un numeral ya no cita la norma que cumple."""
+    if parte not in z.namelist():
+        return []
+    root = ET.fromstring(z.read(parte))
+    out = []
+    for n in root.iter(W + etiqueta):
+        if n.get(W + "type") in ("separator", "continuationSeparator", "continuationNotice"):
+            continue
+        txt = " ".join(t for t in (texto_de(p).strip() for p in n.iter(W + "p")) if t)
+        if txt:
+            out.append(f"[^{prefijo}{n.get(W + 'id')}]: {txt}")
+    return out
+
+
 def espejar(ruta_docx, destino):
     z = zipfile.ZipFile(ruta_docx)
     root = ET.fromstring(z.read("word/document.xml"))
@@ -143,6 +163,8 @@ def espejar(ruta_docx, destino):
     lineas = cuerpo(root, en_cuadros)
     caja = caratula(root)
     coms = comentarios(z)
+    pies = notas(z, "word/footnotes.xml", "footnote", "")
+    finales = notas(z, "word/endnotes.xml", "endnote", "e")
     hl = colores_resaltado(root)
     mtime = datetime.datetime.fromtimestamp(os.path.getmtime(ruta_docx))
 
@@ -161,6 +183,7 @@ def espejar(ruta_docx, destino):
         f"- Párrafos: {sum(1 for l in lineas if l.strip())}",
         f"- Resaltados: {hl if hl else 'ninguno'}"
         + ("  ·  amarillo = 1.ª iteración, cian = 2.ª" if hl else ""),
+        f"- Notas al pie: {len(pies)}" + (f" · notas al final: {len(finales)}" if finales else ""),
         f"- Comentarios pendientes en el documento: {len(coms)}",
         "",
     ]
@@ -179,6 +202,15 @@ def espejar(ruta_docx, destino):
             continue
         partes.append(l)
         anterior_vacia = vacia
+
+    if pies or finales:
+        partes += ["", "---", "",
+                   "## Notas al pie",
+                   "",
+                   "Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. "
+                   "Las citas normativas que no estan en el cuerpo suelen estar aqui.",
+                   ""]
+        partes += pies + finales
 
     if coms:
         partes += ["", "---", "",
