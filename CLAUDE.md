@@ -32,6 +32,19 @@ a mano. La **versión** se maneja con **tags de git**, no con sufijos en el nomb
 
 ---
 
+## Desde el 12.11.2026: la fuente de verdad está en OneDrive
+
+Mario ya no edita `normativo/DIRECTIVA-GOBIERNO-IA.docx` ni corre `guardar.ps1`. El Word
+vigente vive en su OneDrive, en `Trabajo/[WORK] - Gobierno IA/AAAA-MM-DD/Directiva/`, y lo
+edita en Word de escritorio o en línea. El proceso **Espejo desde OneDrive**
+(`.github/workflows/espejo-onedrive.yml` + `herramientas/espejo-onedrive.sh`) revisa cada
+hora en horario laboral el `.docx` más reciente de esas carpetas y, si cambió, regenera
+`trabajo/espejo/DIRECTIVA-GOBIERNO-IA.md` y su ficha `trabajo/espejo/fuente.json`. Lee solo
+carpetas `Directiva`; nunca `_entrada/` ni otros insumos, y el `.docx` no se guarda en el repo.
+`normativo/` y `guardar.ps1` quedan como histórico (versión al 08.11.2026).
+
+---
+
 ## Estructura
 
 ```

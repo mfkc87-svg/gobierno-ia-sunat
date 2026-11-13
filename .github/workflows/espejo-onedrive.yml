@@ -1,0 +1,45 @@
+# Mantiene el espejo de la Directiva al día leyendo el Word vigente en OneDrive,
+# sin depender del PC de Mario. Lee SOLO <proyecto>/AAAA-MM-DD/Directiva/*.docx;
+# nunca _entrada/ ni otros insumos. Al repo va solo el espejo de texto.
+# Secret: RCLONE_CONF (remoto "onedrive", el mismo de entregas-onedrive).
+
+name: Espejo desde OneDrive
+
+on:
+  schedule:
+    # Cada hora, de 8:00 a 20:00 de Lima (UTC-5), de lunes a sábado
+    - cron: "23 13-23 * * 1-6"
+    - cron: "23 0-1 * * 2-7"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: espejo-onedrive
+  cancel-in-progress: false
+
+jobs:
+  espejo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar rclone (instalador oficial)
+        run: curl -fsSL https://rclone.org/install.sh | sudo bash
+
+      - name: Configurar rclone desde el secret
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+        run: |
+          if [ -z "$RCLONE_CONF" ]; then
+            echo "::error::Falta el secret RCLONE_CONF"; exit 1
+          fi
+          mkdir -p ~/.config/rclone
+          printf '%s\n' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+          chmod 600 ~/.config/rclone/rclone.conf
+
+      - name: Regenerar el espejo si el Word cambió
+        run: bash herramientas/espejo-onedrive.sh

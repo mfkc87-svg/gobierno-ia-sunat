@@ -13,6 +13,8 @@ Solo biblioteca estándar de Python 3. No requiere pip, ni lxml, ni pandoc.
 
 Uso, desde la raíz del repo:
     python generar_espejo.py
+o, para un solo archivo (lo usa .github/workflows/espejo-onedrive.yml):
+    python generar_espejo.py --docx RUTA --salida RUTA.md --origen "ruta en OneDrive"
 
 Lee  normativo/*.docx  (y normativo/anexos/*.docx)
 Escribe  trabajo/espejo/<nombre>.md  (texto, carátula, notas al pie y comentarios)
@@ -155,7 +157,7 @@ def notas(z, parte, etiqueta, prefijo):
     return out
 
 
-def espejar(ruta_docx, destino):
+def espejar(ruta_docx, destino, origen=None):
     z = zipfile.ZipFile(ruta_docx)
     root = ET.fromstring(z.read("word/document.xml"))
 
@@ -174,12 +176,13 @@ def espejar(ruta_docx, destino):
         f"# Espejo de texto — {os.path.basename(ruta_docx)}",
         "",
         "> **Esto no es la fuente de verdad.** La fuente es "
-        f"`{ruta_docx.replace(os.sep, '/')}`, que Mario edita en Word.",
+        f"`{origen or ruta_docx.replace(os.sep, '/')}`, que Mario edita en Word.",
         "> Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el "
         "texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se "
         "pierde en la siguiente regeneración.",
         "",
         f"- Última modificación del `.docx`: **{mtime:%d.%m.%Y %H:%M}**",
+    ] + ([f"- Archivo fuente: `{origen}`"] if origen else []) + [
         f"- Párrafos: {sum(1 for l in lineas if l.strip())}",
         f"- Resaltados: {hl if hl else 'ninguno'}"
         + ("  ·  amarillo = 1.ª iteración, cian = 2.ª" if hl else ""),
@@ -228,6 +231,20 @@ def espejar(ruta_docx, destino):
 
 
 def main():
+    # Modo archivo único (lo usa el proceso automático de GitHub):
+    #   python generar_espejo.py --docx RUTA --origen "texto" --salida RUTA.md
+    args = sys.argv[1:]
+    if "--docx" in args:
+        val = lambda k, d=None: args[args.index(k) + 1] if k in args else d
+        ruta, salida = val("--docx"), val("--salida")
+        if not ruta or not salida:
+            print("Uso: --docx RUTA --salida RUTA.md [--origen TEXTO]")
+            return 2
+        os.makedirs(os.path.dirname(salida) or ".", exist_ok=True)
+        n, hl, coms = espejar(ruta, salida, val("--origen"))
+        print(f"  {ruta}  ->  {salida}   ({n:,} caracteres · {hl} resaltados · {coms} comentarios)")
+        return 0
+
     encontrados = []
     for carpeta in ORIGEN:
         if not os.path.isdir(carpeta):
