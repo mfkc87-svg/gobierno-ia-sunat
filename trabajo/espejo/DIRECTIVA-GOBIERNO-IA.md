@@ -1,6 +1,6 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — vigente.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v02_2026-11-08.docx
 
 > **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-08/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v02_2026-11-08.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.

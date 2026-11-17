@@ -173,7 +173,7 @@ def espejar(ruta_docx, destino, origen=None):
     partes = [
         "<!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->",
         "",
-        f"# Espejo de texto — {os.path.basename(ruta_docx)}",
+        f"# Espejo de texto — {os.path.basename(origen) if origen else os.path.basename(ruta_docx)}",
         "",
         "> **Esto no es la fuente de verdad.** La fuente es "
         f"`{origen or ruta_docx.replace(os.sep, '/')}`, que Mario edita en Word.",
