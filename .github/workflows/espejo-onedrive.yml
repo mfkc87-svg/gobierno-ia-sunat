@@ -42,4 +42,9 @@ jobs:
           chmod 600 ~/.config/rclone/rclone.conf
 
       - name: Regenerar el espejo si el Word cambió
+        env:
+          # Lo único que cambia de un proyecto a otro (ver PLANTILLA.md)
+          PROYECTO: "onedrive:Trabajo/[WORK] - Gobierno IA"
+          TIPO: "Directiva"
+          NOMBRE: "DIRECTIVA-GOBIERNO-IA"
         run: bash herramientas/espejo-onedrive.sh
