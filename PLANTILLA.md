@@ -40,3 +40,5 @@ El modo «arrancar proyecto» de la skill `mk-core-prompts` recorre estos pasos.
 - La credencial de rclone vence cada ~90 días.
 - El remoto de rclone debe apuntar al identificador corto de la unidad; con un `drive_id` que empieza con `b!`, las descargas fallan con 401.
 - El proceso lee solo las carpetas del tipo indicado. Nunca lee `_entrada/` ni otros insumos.
+- Vigente es el Word de la carpeta de día más reciente y, dentro de ella, el de versión más alta (`_vNN`). Un Word sin número de versión en el nombre solo gana por fecha de modificación: nombrar siempre con `_vNN`.
+- Si una corrida falla, el workflow abre (o comenta) un issue «El espejo desde OneDrive falló» en el repo, y GitHub avisa por correo. Se cierra a mano cuando vuelve a funcionar.

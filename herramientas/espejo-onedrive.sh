@@ -6,8 +6,8 @@
 # El .docx se descarga al runner temporal y no se guarda en el repo: al repo solo
 # va el espejo de texto y su ficha de fuente (trabajo/espejo/fuente.json).
 #
-# Vigente = el .docx de mayor fecha de modificación. Si no cambió desde la última
-# corrida (misma ruta, fecha y hash), no hace nada.
+# Vigente = el .docx de la carpeta de día más reciente y, dentro de ella, el de versión
+# más alta. Si no cambió desde la última corrida (misma ruta, fecha y hash), no hace nada.
 set -euo pipefail
 
 # Parámetros del proyecto (los fija el workflow; estos son los valores de Gobierno de IA)
@@ -29,7 +29,16 @@ lista = [f for f in json.load(open(sys.argv[1])) if not f["Name"].startswith("~$
 if not lista:
     print("No hay .docx en las carpetas AAAA-MM-DD del tipo. Nada que espejar.")
     sys.exit(0)
-v = max(lista, key=lambda f: f["ModTime"])
+import re
+def clave(f):
+    # Vigente = carpeta de día más reciente; dentro de ella, la versión más alta del nombre
+    # (_vNN o _vN.M); la fecha de modificación solo desempata. Así, abrir y tocar una versión
+    # vieja (Word en línea guarda solo) no la vuelve vigente.
+    dia = f["Path"].split("/", 1)[0]
+    m = re.search(r"_v(\d+)(?:\.(\d+))?", f["Name"])
+    ver = (int(m.group(1)), int(m.group(2) or 0)) if m else (0, 0)
+    return (dia, ver, f["ModTime"])
+v = max(lista, key=clave)
 elegido = {"ruta": v["Path"], "modtime": v["ModTime"], "bytes": v["Size"],
            "hash": (v.get("Hashes") or {}).get("quickxor", "")}
 try:

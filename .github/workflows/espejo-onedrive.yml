@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: espejo-onedrive
@@ -48,3 +49,18 @@ jobs:
           TIPO: "Directiva"
           NOMBRE: "DIRECTIVA-GOBIERNO-IA"
         run: bash herramientas/espejo-onedrive.sh
+
+      - name: Avisar si falló
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          titulo="El espejo desde OneDrive falló"
+          abierto="$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "$titulo in:title" --json number --jq '.[0].number')"
+          cuerpo="La corrida $RUN_URL falló, así que el espejo de la Directiva puede estar desactualizado. Lo más común: la credencial de rclone venció (ver PLANTILLA.md, Límites conocidos). Cierra este aviso cuando vuelva a funcionar."
+          if [ -n "$abierto" ]; then
+            gh issue comment "$abierto" --repo "$GITHUB_REPOSITORY" --body "Volvió a fallar: $RUN_URL"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$titulo" --body "$cuerpo"
+          fi
