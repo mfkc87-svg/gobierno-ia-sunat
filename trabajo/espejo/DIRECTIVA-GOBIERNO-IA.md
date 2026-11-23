@@ -1,12 +1,12 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v18_2026-11-23.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v19_2026-11-23.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v18_2026-11-23.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v19_2026-11-23.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **23.11.2026 17:54**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v18_2026-11-23.docx`
+- Última modificación del `.docx`: **23.11.2026 17:58**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v19_2026-11-23.docx`
 - Párrafos: 553
 - Resaltados: {'magenta': 283, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
@@ -209,7 +209,7 @@ La OIPPI, si el SBIA forma parte de un programa o proyecto institucional.
 La INJT o la INJA, si se interpretan normas tributarias o aduaneras.
 La OII, si el SBIA es de riesgo alto.
 La Ficha declara los supuestos de los literales b) a e). Quienes participan con voz no integran la Comisión ni responden por sus acuerdos. Emiten las opiniones que les pide la sección VI, en el momento que esta indica, y sus opiniones constan en el acta.
-5.4.3	Integrar la Comisión o participar en sus sesiones no limita las funciones que el ROF asigna a cada unidad: cada una opina y supervisa en su competencia y con independencia. El acuerdo de la Comisión no modifica esas opiniones, que constan tal como se emitieron, ni sustituye las conformidades o aprobaciones que corresponden a las unidades. Participar en sus sesiones no implica dar conformidad ni hacer propio el acuerdo. Si la Comisión se aparta de la opinión del OGD, del ODP o del OSCD en su materia, el caso se eleva al CGTD.
+5.4.3	Integrar la Comisión o participar en sus sesiones no limita las funciones que el ROF asigna a cada unidad: cada una opina y supervisa en su competencia y con independencia. El acuerdo de la Comisión no modifica esas opiniones, que constan tal como se emitieron, ni sustituye las conformidades o aprobaciones que corresponden a las unidades. Participar en sus sesiones no implica dar conformidad ni hacer propio el acuerdo. Si la Comisión se aparta de la opinión del OGD, del ODP o del OSCD en su materia, la Comisión eleva el caso al CGTD.
 5.4.4	Los roles se asignan según las competencias del ROF, sin duplicarlas ni sustituirlas. Las figuras que el ROF no regula se sustentan en la norma nacional que las crea, como el OIA, el OGD, el ODP y el OSCD, o en el acto de la SUNAT que las conforma, como el CGTD y la Comisión.
 5.5	De los roles y responsabilidades
 5.5.1	Las responsabilidades del Gobierno de IA se ordenan en cuatro niveles: estratégico, de negocio, tecnológico y de control.
