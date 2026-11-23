@@ -1,12 +1,12 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v13_2026-11-23.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v14_2026-11-23.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v13_2026-11-23.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v14_2026-11-23.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **23.11.2026 16:26**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v13_2026-11-23.docx`
+- Última modificación del `.docx`: **23.11.2026 16:42**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v14_2026-11-23.docx`
 - Párrafos: 541
 - Resaltados: {'magenta': 272, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 137
@@ -626,21 +626,21 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^4]: Resolución de Superintendencia N.° 084-2019/SUNAT, que conforma el CGTD, modificada por las Resoluciones de Superintendencia N.° 142-2019/SUNAT y N.° 000187-2024/SUNAT.
 [^5]: Literal k) del artículo 2 de la Resolución Ministerial N.° 119-2018-PCM, modificada por la Resolución Ministerial N.° 087-2019-PCM, al que remite el artículo 2 de la Resolución de Superintendencia N.° 084-2019/SUNAT.
 [^6]: Numeral 9.3 del artículo 9 del RLIA, aprobado por Decreto Supremo N.° 115-2025-PCM.
-[^8]: Artículo 16 del ROF.
+[^8]: Artículo 15 de la Sección Primera del ROF.
 [^9]: Numeral 11.1 del artículo 11 de la Directiva N.° 002-2026-PCM/SGTD.
 [^10]: Numeral 5.3 del artículo 5 de la Resolución Ministerial N.° 152-2026-PCM.
 [^11]: Literal e) del numeral 10.2 del artículo 10 de la Directiva N.° 002-2026-PCM/SGTD.
 [^13]: Numeral 28.10 del artículo 28 del RLIA.
 [^14]: Numeral 7.11, sobre los proyectos de SBIA en el Portafolio de Proyectos del PGD.
-[^15]: Artículo 53 y literal c) del artículo 54 del ROF.
+[^15]: Artículo 24 y literal c) del artículo 25 de la Sección Primera del ROF.
 [^16]: Numeral 7.11, sobre los proyectos de SBIA en el Portafolio de Proyectos del PGD.
 [^17]: Numeral 6.10.5, sobre el Informe Trimestral de Gobierno de IA.
-[^18]: Literal b) del artículo 106 del ROF.
-[^19]: Literal e) del artículo 106 del ROF.
-[^20]: Literales a) y c) del artículo 130 del ROF.
-[^21]: Literal c) del artículo 130 del ROF.
-[^22]: Literal c) del artículo 108 del ROF.
-[^23]: Literal a) del artículo 112 del ROF.
+[^18]: Literal b) del artículo 289 de la Sección Segunda del ROF.
+[^19]: Literal e) del artículo 289 de la Sección Segunda del ROF.
+[^20]: Literales a) y c) del artículo 126 de la Sección Segunda del ROF.
+[^21]: Literal c) del artículo 126 de la Sección Segunda del ROF.
+[^22]: Literal c) del artículo 120 de la Sección Segunda del ROF.
+[^23]: Literal a) del artículo 293 de la Sección Segunda del ROF.
 [^24]: Numeral 6.1 del artículo 6 de la Resolución Ministerial N.° 152-2026-PCM.
 [^25]: Numeral 6.5 del artículo 6 de la Resolución Ministerial N.° 152-2026-PCM.
 [^27]: Literal j) del numeral 10.2 del artículo 10 y literales c) y d) del artículo 17 de la Directiva N.° 002-2026-PCM/SGTD.
@@ -649,32 +649,32 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^30]: Numeral 9.6 del artículo 9 del RLIA.
 [^31]: Numeral 9.4 del artículo 9 del RLIA.
 [^32]: Numeral 6.4.1, sobre la clasificación de riesgo.
-[^33]: Artículo 55 y literal d) del artículo 56 del ROF.
-[^34]: Artículo 83 y literal b) del artículo 84 del ROF.
-[^35]: Artículo 362 del ROF.
-[^36]: Literal c) del artículo 363 del ROF.
-[^37]: Literales c) y d) del artículo 454 del ROF.
-[^38]: Artículo 453 del ROF.
-[^39]: Literal c) del artículo 454 del ROF.
-[^40]: Literal a) del artículo 197 del ROF.
-[^41]: Literal f) del artículo 197 del ROF.
-[^42]: Literal e) del artículo 106 del ROF.
-[^43]: Literal c) del artículo 126 del ROF.
+[^33]: Artículo 26 y literal d) del artículo 27 de la Sección Primera del ROF.
+[^34]: Artículo 31 y literal b) del artículo 32 de la Sección Primera del ROF.
+[^35]: Artículo 54 de la Sección Primera del ROF.
+[^36]: Literal c) del artículo 55 de la Sección Primera del ROF.
+[^37]: Literales c) y d) del artículo 63 de la Sección Primera del ROF.
+[^38]: Artículo 62 de la Sección Primera del ROF.
+[^39]: Literal c) del artículo 63 de la Sección Primera del ROF.
+[^40]: Literal a) del artículo 42 de la Sección Primera del ROF.
+[^41]: Literal f) del artículo 42 de la Sección Primera del ROF.
+[^42]: Literal e) del artículo 289 de la Sección Segunda del ROF.
+[^43]: Literal c) del artículo 303 de la Sección Segunda del ROF.
 [^44]: Numeral 28.3 del artículo 28 del RLIA.
 [^45]: Sexta Disposición Complementaria Final del RLIA.
 [^46]: Artículo 23 del RLIA.
 [^47]: Numeral 6.4.1, sobre la clasificación de riesgo.
 [^48]: Numeral 30.1 del artículo 30 del RLIA.
 [^49]: Numeral 30.2 del artículo 30 del RLIA.
-[^50]: Literal a) del artículo 130 del ROF.
-[^51]: Literales a) y c) del artículo 132 del ROF.
-[^52]: Literales a) y c) del artículo 134 del ROF.
-[^53]: Literales a) y c) del artículo 130, literal b) del artículo 132 y literales c), d) y l) del artículo 134 del ROF.
+[^50]: Literal a) del artículo 126 de la Sección Segunda del ROF.
+[^51]: Literales a) y c) del artículo 307 de la Sección Segunda del ROF.
+[^52]: Literales a) y c) del artículo 309 de la Sección Segunda del ROF.
+[^53]: Literales a) y c) del artículo 126, literal b) del artículo 307 y literales c), d) y l) del artículo 309 de la Sección Segunda del ROF.
 [^54]: Numeral 28.6 del artículo 28 del RLIA.
-[^55]: Literal a) de los artículos 132 y 134 del ROF.
-[^56]: Literal c) del artículo 134 del ROF.
+[^55]: Literal a) de los artículos 307 y 309 de la Sección Segunda del ROF.
+[^56]: Literal c) del artículo 309 de la Sección Segunda del ROF.
 [^57]: Numeral 28.8 del artículo 28 del RLIA.
-[^58]: Literales a) y d) del artículo 114 del ROF.
+[^58]: Literales a) y d) del artículo 122 de la Sección Segunda del ROF.
 [^59]: PENDIENTE: acto que califica el código fuente como activo crítico nacional (número, fecha y emisor).
 [^60]: Artículo 85 del TUO del Código Tributario.
 [^61]: Literal h) del artículo 7 del RLIA.
@@ -682,21 +682,21 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^63]: Numeral 5.4, literal b), del Manual de Políticas del Sistema de Gestión de Seguridad de la Información (SGSI-MA-03).
 [^64]: Artículo 29 del RLIA.
 [^65]: Sexta Disposición Complementaria Final del RLIA.
-[^66]: Literales a), c) y e) del artículo 106 del ROF.
+[^66]: Literales a), c) y e) del artículo 289 de la Sección Segunda del ROF.
 [^67]: Artículo 26 del RLIA.
 [^68]: Literal b) del artículo 29 del RLIA.
 [^69]: Numerales 14 y 15 del artículo 2 de la Ley N.° 29733.
 [^70]: Artículo 7 y numeral 1 del artículo 14 de la Ley N.° 29733.
 [^71]: Artículo 85 del TUO del Código Tributario.
 [^72]: Artículo 163 de la Ley General de Aduanas, aprobada por Decreto Legislativo N.° 1053.
-[^73]: Literal b) del artículo 138 del ROF.
+[^73]: Literal b) del artículo 311 de la Sección Segunda del ROF.
 [^74]: Literal d) del artículo 29 del RLIA.
 [^75]: Literales c) y d) del artículo 29 del RLIA.
 [^76]: Controles A.4.3, A.7.3 y A.7.5 del Anexo A de la NTP-ISO/IEC 42001:2025, de uso obligatorio para el desarrollo de SBIA según el numeral 28.2 del artículo 28 del RLIA.
 [^77]: Numeral 68.5 del artículo 68 del Decreto Supremo N.° 029-2021-PCM.
 [^78]: Numeral 68.1 del artículo 68 del Decreto Supremo N.° 029-2021-PCM.
 [^79]: Artículo 85 del TUO del Código Tributario y artículo 163 de la Ley General de Aduanas, aprobada por Decreto Legislativo N.° 1053.
-[^80]: Artículo 362 y literal c) del artículo 363 del ROF; artículo 453 y literales c) y d) del artículo 454 del ROF.
+[^80]: Artículo 54 y literal c) del artículo 55 de la Sección Primera del ROF; artículo 62 y literales c) y d) del artículo 63 de la Sección Primera del ROF.
 [^81]: Literal d) del artículo 7 del RLIA.
 [^82]: Literal h) del artículo 7 del RLIA y control A.7.4 del Anexo A de la NTP-ISO/IEC 42001:2025.
 [^83]: Numeral 28.7 del artículo 28 del RLIA.
@@ -711,39 +711,39 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^92]: Numeral 25.1 del artículo 25 del RLIA.
 [^93]: Ley N.° 27806, Ley de Transparencia y Acceso a la Información Pública.
 [^94]: Literal a) del artículo 7 del RLIA y compromiso 6 de la Política institucional de IA.
-[^95]: Literal a) del artículo 126 del ROF.
-[^96]: Artículo 123 y literal a) del artículo 124 del ROF.
-[^97]: Artículo 125 y literal a) del artículo 126 del ROF.
-[^98]: Literal b) del artículo 106 del ROF.
-[^99]: Literal d) del artículo 106 del ROF.
-[^100]: Literal c) del artículo 130 del ROF.
-[^101]: Artículo 143 y literales b) y c) del artículo 144 del ROF.
-[^102]: Literal a) del artículo 136 del ROF.
-[^103]: Artículo 143 y literal f) del artículo 144 del ROF, y literal b) del numeral 8.6 y literal b) del numeral 8.15 del Manual de Políticas del SGSI (SGSI-MA-03).
-[^104]: Literal b) del artículo 140 y literal e) del artículo 142 del ROF.
+[^95]: Literal a) del artículo 303 de la Sección Segunda del ROF.
+[^96]: Artículo 123 y literal a) del artículo 124 de la Sección Segunda del ROF.
+[^97]: Artículo 302 y literal a) del artículo 303 de la Sección Segunda del ROF.
+[^98]: Literal b) del artículo 289 de la Sección Segunda del ROF.
+[^99]: Literal d) del artículo 289 de la Sección Segunda del ROF.
+[^100]: Literal c) del artículo 126 de la Sección Segunda del ROF.
+[^101]: Artículo 129 y literales b) y c) del artículo 130 de la Sección Segunda del ROF.
+[^102]: Literal a) del artículo 128 de la Sección Segunda del ROF.
+[^103]: Artículo 129 y literal f) del artículo 130 de la Sección Segunda del ROF, y literal b) del numeral 8.6 y literal b) del numeral 8.15 del Manual de Políticas del SGSI (SGSI-MA-03).
+[^104]: Literal b) del artículo 313 y literal e) del artículo 315 de la Sección Segunda del ROF.
 [^105]: Control A.10.3 del Anexo A de la NTP-ISO/IEC 42001:2025, de uso obligatorio para el desarrollo de SBIA según el numeral 28.2 del artículo 28 del RLIA. Su guía de implementación (B.10.3) comprende a los proveedores de modelos y de otros componentes, además del sistema completo.
 [^106]: Numeral 1 del artículo 34 y artículo 37 del Reglamento de la Ley N.° 29733, aprobado por Decreto Supremo N.° 003-2013-JUS.
 [^107]: Para la información sujeta a reserva tributaria, la prohibición se sustenta en el artículo 85 del TUO del Código Tributario, que extiende la obligación de mantener la reserva a quienes accedan a esa información; para la información obtenida para la gestión del riesgo aduanero, en el artículo 163 de la Ley General de Aduanas, aprobada por Decreto Legislativo N.° 1053; y para los datos personales, en el artículo 30 de la Ley N.° 29733, que prohíbe a quien presta servicios de tratamiento por cuenta de terceros aplicarlos o usarlos con un fin distinto al que figura en el contrato o convenio.
 [^108]: Numeral 31.1 del artículo 31 del RLIA. Ese numeral, que forma parte de las obligaciones de las organizaciones del sector privado, obliga al desarrollador o implementador de un sistema de riesgo alto a mantener un registro actualizado sobre esas materias. Se toma como referencia del contenido de la documentación; la obligación del proveedor frente a la SUNAT deriva del contrato.
 [^109]: El numeral 25.1 del artículo 25 del RLIA reconoce el respeto del secreto industrial y comercial al regular la transparencia algorítmica hacia el usuario. Se toma como referencia.
-[^110]: Literal k) del artículo 130 y literal j) del artículo 102 del ROF.
+[^110]: Literal k) del artículo 126 de la Sección Segunda y literal j) del artículo 36 de la Sección Primera del ROF.
 [^111]: Artículo 15 de la Ley N.° 29733.
-[^112]: Literales a) y f) del artículo 197 del ROF.
+[^112]: Literales a) y f) del artículo 42 de la Sección Primera del ROF.
 [^113]: Literal f) del artículo 7 del RLIA; cláusula 7.3 de la NTP-ISO/IEC 42001:2025.
 [^114]: Numeral 28.5 del artículo 28 del RLIA; cláusula 7.2 y control A.4.6 del Anexo A de la NTP-ISO/IEC 42001:2025.
 [^115]: Numerales 28.1 y 28.2 del artículo 28 del RLIA.
 [^116]: Numeral 27.1 del artículo 27 del RLIA.
-[^117]: Desarrolla el numeral 28.9 del artículo 28 del RLIA. La promoción corresponde a la OII según el literal b) del artículo 84 del ROF.
+[^117]: Desarrolla el numeral 28.9 del artículo 28 del RLIA. La promoción corresponde a la OII según el literal b) del artículo 32 de la Sección Primera del ROF.
 [^118]: Se adopta conforme al tercer párrafo de la Segunda Disposición Complementaria Final del RLIA.
 [^119]: Artículos 22 a 24 del RLIA.
 [^120]: Literal b) del numeral 22.1 del artículo 22, artículos 25 y 30, y numeral 28.11 del artículo 28, todos del RLIA.
 [^121]: Numeral 11.1 del artículo 11 de la Directiva N.° 002-2026-PCM/SGTD.
 [^122]: Numeral 28.2 del artículo 28 del RLIA, que dispone su uso para el desarrollo de SBIA.
-[^123]: Artículo 107 y literal b) del artículo 112 del ROF.
-[^125]: Literal i) del artículo 136 del ROF.
-[^126]: Literal j) del artículo 102 y literal e) del artículo 108 del ROF. La opinión en materia de contrataciones se sustenta en el literal b) del artículo 151 y en el literal b) del artículo 155 del ROF.
-[^127]: Literales e) y j) del artículo 108 del ROF.
-[^128]: Segundo párrafo del artículo 35 y literal g) del artículo 36 del ROF.
+[^123]: Artículo 119 y literal b) del artículo 293 de la Sección Segunda del ROF.
+[^125]: Literal i) del artículo 128 de la Sección Segunda del ROF.
+[^126]: Literal j) del artículo 36 de la Sección Primera y literal e) del artículo 120 de la Sección Segunda del ROF. La opinión en materia de contrataciones se sustenta en el literal b) del artículo 38 de la Sección Primera y en el literal b) del artículo 133 de la Sección Segunda del ROF.
+[^127]: Literales e) y j) del artículo 120 de la Sección Segunda del ROF.
+[^128]: Segundo párrafo del artículo 22 y literal g) del artículo 23 de la Sección Primera del ROF.
 [^129]: Numeral 28.10 del artículo 28 del RLIA.
 [^130]: Artículos 5 y 7 de la Resolución Ministerial N.° 152-2026-PCM.
 [^131]: Aprobada por la Resolución de Secretaría de Gobierno y Transformación Digital N.° 004-2026-PCM/SGTD.
@@ -755,5 +755,5 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^137]: Literal m) del numeral 10.2 del artículo 10 de la Directiva N.° 002-2026-PCM/SGTD.
 [^138]: Literales b), f) y g) del numeral 10.2 del artículo 10 de la Directiva N.° 002-2026-PCM/SGTD.
 [^139]: Numeral 10.3 del artículo 10 de la Directiva N.° 002-2026-PCM/SGTD.
-[^140]: Literales a), b), i) y j) del artículo 102 del ROF.
-[^141]: Literal a) del artículo 124 y literales a) y c) del artículo 126 del ROF.
+[^140]: Literales a), b), i) y j) del artículo 36 de la Sección Primera del ROF.
+[^141]: Literal a) del artículo 124 y literales a) y c) del artículo 303 de la Sección Segunda del ROF.
