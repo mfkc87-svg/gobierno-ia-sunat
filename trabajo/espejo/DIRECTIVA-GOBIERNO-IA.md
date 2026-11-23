@@ -1,12 +1,12 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v21_2026-11-23.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v22_2026-11-23.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v21_2026-11-23.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v22_2026-11-23.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **23.11.2026 18:45**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v21_2026-11-23.docx`
+- Última modificación del `.docx`: **23.11.2026 18:52**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v22_2026-11-23.docx`
 - Párrafos: 553
 - Resaltados: {'magenta': 283, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
@@ -174,7 +174,7 @@ DISPOSICIONES GENERALES
 El nivel de riesgo del SBIA.
 La valoración de sus riesgos en la Matriz de Valoración de Riesgos de SBIA (Anexo N.° 2).
 Si otro documento normativo de la SUNAT ya le exige un control equivalente.
-Todo SBIA cumple siempre lo que exigen las leyes y sus reglamentos, incluido el RLIA. Lo que la presente directiva exige por encima de ellos puede reducirse con estos criterios (numeral 6.4.3).
+Todo SBIA cumple siempre lo que exigen las leyes y sus reglamentos, incluido el RLIA. Quien aprueba la clasificación puede reducir, con estos criterios, lo que la presente directiva exige por encima de ellos (numeral 6.4.3).
 5.3.4	En aplicación de los compromisos de la Política institucional de IA, todo desarrollo, implementación y uso de la IA en la SUNAT cumple los principios siguientes:
 
 | Principio | Qué exige |
