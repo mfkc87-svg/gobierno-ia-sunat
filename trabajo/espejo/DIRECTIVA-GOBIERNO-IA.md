@@ -1,15 +1,15 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v16_2026-11-23.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v17_2026-11-23.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v16_2026-11-23.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v17_2026-11-23.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **23.11.2026 17:40**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v16_2026-11-23.docx`
+- Última modificación del `.docx`: **23.11.2026 17:46**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v17_2026-11-23.docx`
 - Párrafos: 553
-- Resaltados: {'magenta': 282, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
-- Notas al pie: 137
+- Resaltados: {'magenta': 283, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Notas al pie: 138
 - Comentarios pendientes en el documento: 0
 
 ## Carátula — contenido de los cuadros de texto
@@ -194,7 +194,7 @@ Lo que exigen las leyes y sus reglamentos, incluido el RLIA, se cumple siempre. 
 5.4	De la función de gobierno de IA
 5.4.1	El CGTD ejerce la función de gobierno de IA en la SUNAT[^4] y las responsabilidades que le asigna la presente directiva, al amparo de la cláusula de funciones adicionales de su norma de conformación[^5].
 En particular, el CGTD lidera, dirige, evalúa y supervisa los proyectos de SBIA estratégicos para la entidad[^6] (numeral 6.2.1).
-5.4.2	La Comisión de Gobierno de IA (en adelante, la Comisión) es el órgano de apoyo del CGTD, con las responsabilidades que le asigna el numeral 5.5.2.
+5.4.2	La Comisión de Gobierno de IA (en adelante, la Comisión) es el órgano de apoyo del CGTD[^7], con las responsabilidades que le asigna el numeral 5.5.2.
 La Comisión aprueba solo aspectos técnicos del componente de IA. La unidad competente según el ROF aprueba los actos que producen efectos sobre terceros o comprometen recursos, con la recomendación fundamentada de la Comisión.
 Integran la Comisión, con voto:
 Un representante de la INSI.
@@ -638,6 +638,7 @@ Cada llamada `[^n]` del texto remite a la nota `[^n]` de esta lista. Las citas n
 [^4]: Resolución de Superintendencia N.° 084-2019/SUNAT, que conforma el CGTD, modificada por las Resoluciones de Superintendencia N.° 142-2019/SUNAT y N.° 000187-2024/SUNAT.
 [^5]: Literal k) del artículo 2 de la Resolución Ministerial N.° 119-2018-PCM, modificada por la Resolución Ministerial N.° 087-2019-PCM, al que remite el artículo 2 de la Resolución de Superintendencia N.° 084-2019/SUNAT.
 [^6]: Numeral 9.3 del artículo 9 del RLIA, aprobado por Decreto Supremo N.° 115-2025-PCM.
+[^7]: Literal a) del artículo 17 de la Directiva N.° 002-2026-PCM/SGTD.
 [^8]: Artículo 15 de la Sección Primera del ROF.
 [^9]: Numeral 11.1 del artículo 11 de la Directiva N.° 002-2026-PCM/SGTD.
 [^10]: Numeral 5.3 del artículo 5 de la Resolución Ministerial N.° 152-2026-PCM.
