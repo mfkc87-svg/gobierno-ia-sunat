@@ -1,14 +1,14 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v23_2026-11-23.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v24_2026-11-23.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v23_2026-11-23.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v24_2026-11-23.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **23.11.2026 19:32**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v23_2026-11-23.docx`
-- Párrafos: 553
-- Resaltados: {'magenta': 288, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Última modificación del `.docx`: **23.11.2026 19:38**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-23/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v24_2026-11-23.docx`
+- Párrafos: 554
+- Resaltados: {'magenta': 291, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
 - Comentarios pendientes en el documento: 0
 
@@ -213,13 +213,14 @@ La Ficha declara los supuestos de los literales b) a e). Quienes participan con 
 5.4.4	La presente directiva asigna los roles según las competencias del ROF, sin duplicarlas ni sustituirlas. Las figuras que el ROF no regula tienen sustento en la norma nacional que las crea, como el OIA, el OGD, el ODP y el OSCD, o en el acto de la SUNAT que las conforma, como el CGTD y la Comisión.
 5.5	De los roles y responsabilidades
 5.5.1	La presente directiva ordena las responsabilidades del Gobierno de IA en cuatro niveles: estratégico, de negocio, tecnológico y de control.
+Las responsabilidades que la presente directiva asigna a una unidad de organización corresponden a ella y las ejerce su titular, directamente o mediante las unidades que dependen de ella según el ROF. Las que asigna al OIA, al OGD, al ODP y al OSCD las ejerce el funcionario o servidor designado en ese rol. Quien representa a una unidad en la Comisión actúa por ella.
 5.5.2	En el nivel estratégico están los roles siguientes:
 
 | Rol | Responsabilidades |
 | Superintendencia Nacional | a. Aprueba la Política institucional de IA y las directivas de IA. b. Conforma la Comisión mediante RS. |
 | SNAAF, máxima autoridad administrativa[^8] | a. Designa al OIA[^9]. b. Aprueba el PAIA, que valida el CGTD[^10]. |
 | CGTD, en materia de IA | a. Decide la incorporación de los proyectos de SBIA al Portafolio de Proyectos del PGD (numeral 7.11)[^13]. b. Aprueba los indicadores de desempeño del Gobierno de IA y sus metas, que el OIA le propone con el Informe Trimestral (numeral 6.10.5). c. Ejerce las aprobaciones del ciclo de vida que le asigna el numeral 6.2.1 y resuelve las elevaciones que prevén los numerales 6.2.3, 6.4.6, 6.9.1 y 7.14. d. Aprueba el método de valoración de la Matriz (numeral 6.4.2), el plan de implementación del SGIA (numeral 7.4) y la publicación de los conjuntos de datos de alto valor (numeral 6.9.5). e. Fija los plazos de los encargos, las opiniones y los trámites (numeral 7.6), y resuelve las situaciones no previstas (numeral 7.8). f. Designa al Coordinador de la Comisión (numeral 7.2). |
-| Comisión, órgano de apoyo del CGTD | a. Aprueba, por consenso de sus integrantes con voto (numeral 5.4.2), las materias que le asigna el numeral 6.2.1: el caso de uso y la clasificación de riesgo de los SBIA de riesgo aceptable no estratégicos, salvo los SBIA de apoyo; la certificación y validación con el plan de monitoreo (etapa 5); el retiro (etapa 8), y el cambio significativo que no corresponde al CGTD (numeral 6.11.6). Aprueba también el criterio de sesgo (numeral 6.11.1). b. Propone al CGTD la clasificación de riesgo de los SBIA de riesgo alto y de los estratégicos, con la EIRA cuando corresponde, y le eleva los casos en que no hay consenso y los que el propietario del caso de uso le pide elevar (numerales 6.2.2, 6.2.3, 6.4.1 y 6.4.7). c. Emite su opinión técnica sobre el componente de IA de las iniciativas (numeral 6.15) y verifica en la etapa 5 la implementación de los controles (numeral 6.4.4). d. Evalúa los indicios de uso indebido de un SBIA en operación y eleva el caso al CGTD (numeral 6.4.6). e. Convoca a otras unidades y a especialistas según la materia y la complejidad del caso de uso. f. Aplica la Matriz de Valoración de Riesgos en la etapa 2 y propone los ajustes de controles (numerales 6.4.2, 6.4.3 y 6.13.4). g. Puede recalificar el cambio que califica el propietario del caso de uso (numeral 6.11.5) y determina si un uso es de apoyo cuando la INSI lo duda (numeral 6.12.3). |
+| Comisión, órgano de apoyo del CGTD | a. Aprueba, por consenso de sus integrantes con voto (numeral 5.4.2), las materias que le asigna el numeral 6.2.1: el caso de uso y la clasificación de riesgo de los SBIA de riesgo aceptable no estratégicos, salvo los SBIA de apoyo; la certificación y validación con el plan de monitoreo (etapa 5); el retiro (etapa 8), y el cambio significativo que no corresponde al CGTD (numeral 6.11.6). Aprueba también el criterio de sesgo (numeral 6.11.1). b. Propone al CGTD la clasificación de riesgo de los SBIA de riesgo alto y de los estratégicos, con la EIRA cuando corresponde, y le eleva los casos en que no hay consenso y los que el propietario del caso de uso le pide elevar (numerales 6.2.2, 6.2.3, 6.4.1 y 6.4.7). c. Emite su opinión técnica sobre el componente de IA de las iniciativas (numeral 6.15) y verifica en la etapa 5 la implementación de los controles (numeral 6.4.4). d. Evalúa los indicios de uso indebido de un SBIA en operación y eleva el caso al CGTD (numeral 6.4.6). e. Convoca a otras unidades y a especialistas según la materia y la complejidad del caso de uso. f. Aplica la Matriz de Valoración de Riesgos en la etapa 2 y propone los ajustes de controles (numerales 6.4.2, 6.4.3 y 6.13.4). g. Puede recalificar el cambio que califica el propietario del caso de uso (numeral 6.11.5) y determina si un uso es de apoyo cuando la INSI lo duda (numeral 6.12.3). h. Comunica a los miembros del CGTD su propuesta sobre los SBIA de riesgo aceptable no estratégicos antes de aprobarla (numeral 6.2.1) y presenta al CGTD, en cada sesión ordinaria, la relación de las aprobaciones que otorgó (numeral 6.2.2). i. Si a la Ficha le falta información, da un plazo para completarla y, si vence, cierra el caso de uso (numeral 6.2.3). |
 
 5.5.3	En el nivel de negocio están los roles siguientes:
 
