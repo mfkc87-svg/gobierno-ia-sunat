@@ -1,14 +1,14 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v26_2026-11-25.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v26_2026-11-25.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **25.11.2026 15:19**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v26_2026-11-25.docx`
+- Última modificación del `.docx`: **25.11.2026 15:26**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx`
 - Párrafos: 554
-- Resaltados: {'magenta': 295, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'magenta': 303, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
 - Comentarios pendientes en el documento: 0
 
@@ -191,8 +191,8 @@ Todo SBIA cumple siempre lo que exigen las leyes y sus reglamentos, incluido el 
 | Sensibilización y desarrollo de capacidades | El personal recibe sensibilización y capacitación para usar la IA de forma segura, responsable y ética, y para comprender sus riesgos y oportunidades. |
 | Sostenibilidad | La SUNAT usa la IA considerando los impactos humanos, sociales, económicos, culturales y ambientales, con prácticas que reducen el consumo de energía y de recursos. |
 
-5.4	De la función de gobierno de IA
-5.4.1	El CGTD ejerce la función de gobierno de IA en la SUNAT[^4] y las responsabilidades que le asigna la presente directiva, al amparo de la cláusula de funciones adicionales de su norma de conformación[^5].
+5.4	De la organización del Gobierno de IA
+5.4.1	El CGTD conduce el Gobierno de IA en la SUNAT[^4] y ejerce las responsabilidades que le asigna la presente directiva, al amparo de su norma de conformación[^5].
 En particular, el CGTD lidera, dirige, evalúa y supervisa los proyectos de SBIA estratégicos para la entidad[^6] (numeral 6.2.1).
 5.4.2	La Comisión de Gobierno de IA (en adelante, la Comisión) es el órgano de apoyo del CGTD[^7], con las responsabilidades que le asigna el numeral 5.5.2.
 La Comisión aprueba solo aspectos técnicos del componente de IA. La unidad competente según el ROF aprueba los actos que producen efectos sobre terceros o comprometen recursos, con la recomendación fundamentada de la Comisión.
@@ -209,7 +209,7 @@ La OIPPI, si el SBIA forma parte de un programa o proyecto institucional.
 La INJT o la INJA, si el caso requiere interpretar normas tributarias o aduaneras.
 La OII, si el SBIA es de riesgo alto.
 La Ficha declara los supuestos de los literales b) a e). Quienes participan con voz no integran la Comisión ni responden por sus acuerdos. Emiten las opiniones que les pide la sección VI, en el momento que esta indica, y sus opiniones constan en el acta.
-5.4.3	Integrar la Comisión o participar en sus sesiones no limita las funciones que el ROF asigna a cada unidad: cada una opina y supervisa en su competencia y con independencia. El acuerdo de la Comisión no modifica esas opiniones, que constan tal como las unidades las emitieron, ni sustituye las conformidades o aprobaciones que corresponden a las unidades. Participar en sus sesiones no implica dar conformidad ni hacer propio el acuerdo. Si la Comisión se aparta de la opinión del OGD, del ODP o del OSCD en su materia, la Comisión eleva el caso al CGTD.
+5.4.3	Integrar la Comisión o participar en sus sesiones no limita las competencias que el ROF asigna a cada unidad: cada una opina y supervisa con independencia. El acuerdo de la Comisión no modifica esas opiniones, que constan tal como las unidades las emitieron, ni sustituye las conformidades o aprobaciones que corresponden a las unidades. Participar en sus sesiones no implica dar conformidad ni hacer propio el acuerdo. Si la Comisión se aparta de la opinión del OGD, del ODP o del OSCD en su materia, la Comisión eleva el caso al CGTD.
 5.4.4	La presente directiva asigna los roles según las competencias del ROF, sin duplicarlas ni sustituirlas. Las figuras que el ROF no regula tienen sustento en la norma nacional que las crea, como el OIA, el OGD, el ODP y el OSCD, o en el acto de la SUNAT que las conforma, como el CGTD y la Comisión.
 5.5	De los roles y responsabilidades
 5.5.1	La presente directiva ordena las responsabilidades del Gobierno de IA en cuatro niveles: estratégico, de negocio, tecnológico y de control.
