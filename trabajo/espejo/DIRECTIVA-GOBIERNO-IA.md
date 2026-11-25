@@ -1,14 +1,14 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **25.11.2026 15:26**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v27_2026-11-25.docx`
+- Última modificación del `.docx`: **25.11.2026 15:57**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx`
 - Párrafos: 554
-- Resaltados: {'magenta': 303, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'magenta': 305, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
 - Comentarios pendientes en el documento: 0
 
@@ -191,7 +191,7 @@ Todo SBIA cumple siempre lo que exigen las leyes y sus reglamentos, incluido el 
 | Sensibilización y desarrollo de capacidades | El personal recibe sensibilización y capacitación para usar la IA de forma segura, responsable y ética, y para comprender sus riesgos y oportunidades. |
 | Sostenibilidad | La SUNAT usa la IA considerando los impactos humanos, sociales, económicos, culturales y ambientales, con prácticas que reducen el consumo de energía y de recursos. |
 
-5.4	De la organización del Gobierno de IA
+5.4	De la conducción del Gobierno de IA
 5.4.1	El CGTD conduce el Gobierno de IA en la SUNAT[^4] y ejerce las responsabilidades que le asigna la presente directiva, al amparo de su norma de conformación[^5].
 En particular, el CGTD lidera, dirige, evalúa y supervisa los proyectos de SBIA estratégicos para la entidad[^6] (numeral 6.2.1).
 5.4.2	La Comisión de Gobierno de IA (en adelante, la Comisión) es el órgano de apoyo del CGTD[^7], con las responsabilidades que le asigna el numeral 5.5.2.
