@@ -1,14 +1,14 @@
 <!-- ARCHIVO GENERADO POR generar_espejo.py — NO EDITAR A MANO -->
 
-# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx
+# Espejo de texto — DIRECTIVA-GOBIERNO-IA-S2B_v29_2026-11-26.docx
 
-> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx`, que Mario edita en Word.
+> **Esto no es la fuente de verdad.** La fuente es `Trabajo/[WORK] - Gobierno IA/2026-11-26/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v29_2026-11-26.docx`, que Mario edita en Word.
 > Este archivo se regenera en cada commit para que claude.ai pueda leer y citar el texto vigente sin que nadie suba el binario. Si lo editas a mano, tu cambio se pierde en la siguiente regeneración.
 
-- Última modificación del `.docx`: **25.11.2026 15:57**
-- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-25/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v28_2026-11-25.docx`
+- Última modificación del `.docx`: **26.11.2026 08:56**
+- Archivo fuente: `Trabajo/[WORK] - Gobierno IA/2026-11-26/Directiva/DIRECTIVA-GOBIERNO-IA-S2B_v29_2026-11-26.docx`
 - Párrafos: 554
-- Resaltados: {'magenta': 305, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
+- Resaltados: {'magenta': 306, 'yellow': 151, 'cyan': 31, 'green': 37}  ·  amarillo = 1.ª iteración, cian = 2.ª
 - Notas al pie: 138
 - Comentarios pendientes en el documento: 0
 
@@ -288,7 +288,7 @@ Lo que decide el CGTD y lo que aprueba la Comisión constan en acta, con su sust
 Si la Comisión emite un pronunciamiento no favorable, lo explica por escrito, y el caso sigue el curso que corresponde a la razón:
 Uso indebido o incumplimiento de la Política institucional de IA o de la normativa: la Comisión eleva el caso al CGTD. Si este confirma la razón, el caso de uso no continúa; si la descarta, quien corresponde según el numeral 6.2.1 aprueba la clasificación. Si hay duda sobre el uso indebido, rige el numeral 6.4.6.
 Una alternativa sin IA logra el resultado: la iniciativa puede seguir sin el componente de IA. Si el propietario del caso de uso discrepa, puede pedir a la Comisión que eleve el caso al CGTD, que decide.
-6.3	De los responsables del caso de uso
+6.3	Del propietario, la unidad a cargo y el equipo de cada SBIA
 6.3.1	Todo SBIA cuenta con:
 Un propietario del caso de uso. Responde por la finalidad, la necesidad, los beneficios, los resultados, los riesgos funcionales, la supervisión humana y el uso adecuado del SBIA. Si el propietario del caso de uso no es la unidad dueña del proceso según el ROF y el SBIA modifica el proceso o sus criterios, canaliza el caso de uso a través de la unidad dueña del proceso. Esta da su conformidad y define cómo se modifica el proceso antes de que se presente la Ficha (Anexo N° 01). Ante la duda sobre si el SBIA modifica el proceso, se requiere esa conformidad.
 Una unidad de la INSI a cargo en cada etapa, la competente según el ROF, que precisa la metodología del ciclo de vida (numeral 7.6). En los SBIA existentes, la INSI la identifica al registrarlos (numeral 7.14).
